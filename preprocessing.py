@@ -1,4 +1,5 @@
 # INPUT: Files (Subtitles)
-# OUTPUT: Tokens (An array of arrays)
+# OUTPUT: Files (normal text file) 
     
-        # OUTPUT FORMAT = [[file1:t1,t2,t3,...][file2:t1,t2,t3,...][][]....]
+        # OUTPUT FORMAT = All text files should have only text not the
+        # timestamps!
