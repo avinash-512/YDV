@@ -1,0 +1,470 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:03.639 --> 00:00:04.600 align:start position:0%
+ 
+is<00:00:03.729><c> nothing</c><00:00:04.040><c> like</c><00:00:04.150><c> dangling</c>
+
+00:00:04.600 --> 00:00:05.000 align:start position:0%
+is nothing like dangling
+ 
+
+00:00:05.000 --> 00:00:06.080 align:start position:0%
+is nothing like dangling
+something<c.colorE5E5E5><00:00:05.710><c> that</c></c><00:00:05.830><c> hasn't</c><00:00:06.080><c> been</c>
+
+00:00:06.080 --> 00:00:06.180 align:start position:0%
+something<c.colorE5E5E5> that</c> hasn't been
+ 
+
+00:00:06.180 --> 00:00:08.179 align:start position:0%
+something<c.colorE5E5E5> that</c> hasn't been
+invented<c.colorE5E5E5><00:00:06.410><c> yet</c></c><00:00:07.660><c> in</c><00:00:07.780><c> the</c><00:00:07.860><c> face</c><00:00:08.000><c> of</c><00:00:08.179><c> an</c>
+
+00:00:08.179 --> 00:00:08.320 align:start position:0%
+invented<c.colorE5E5E5> yet</c> in the face of an
+ 
+
+00:00:08.320 --> 00:00:09.130 align:start position:0%
+invented<c.colorE5E5E5> yet</c> in the face of an
+<c.colorCCCCCC>engineered</c>
+
+00:00:09.130 --> 00:00:09.530 align:start position:0%
+<c.colorCCCCCC>engineered
+ </c>
+
+00:00:09.530 --> 00:00:10.219 align:start position:0%
+<c.colorCCCCCC>engineered</c>
+<c.colorE5E5E5>because</c><00:00:09.719><c> you</c><00:00:09.870><c> know</c><00:00:10.030><c> they</c><00:00:10.219><c> can't</c>
+
+00:00:10.219 --> 00:00:10.570 align:start position:0%
+<c.colorE5E5E5>because</c> you know they can't
+ 
+
+00:00:10.570 --> 00:00:11.990 align:start position:0%
+<c.colorE5E5E5>because</c> you know they can't
+stand<c.colorE5E5E5><00:00:10.929><c> it</c></c><c.colorCCCCCC><00:00:11.049><c> I</c></c><c.colorE5E5E5><00:00:11.110><c> gotta</c></c><00:00:11.349><c> make</c><00:00:11.549><c> that</c><c.colorCCCCCC><00:00:11.990><c> the</c></c>
+
+00:00:11.990 --> 00:00:12.230 align:start position:0%
+stand<c.colorE5E5E5> it</c><c.colorCCCCCC> I</c><c.colorE5E5E5> gotta</c> make that<c.colorCCCCCC> the
+ </c>
+
+00:00:12.230 --> 00:00:13.389 align:start position:0%
+stand<c.colorE5E5E5> it</c><c.colorCCCCCC> I</c><c.colorE5E5E5> gotta</c> make that<c.colorCCCCCC> the
+gotta</c><c.colorE5E5E5><00:00:12.459><c> turn</c><00:00:12.589><c> it</c></c><00:00:12.780><c> into</c><c.colorE5E5E5><00:00:12.959><c> a</c><00:00:13.039><c> reality</c></c>
+
+00:00:13.389 --> 00:00:13.789 align:start position:0%
+<c.colorCCCCCC>gotta</c><c.colorE5E5E5> turn it</c> into<c.colorE5E5E5> a reality
+ </c>
+
+00:00:13.789 --> 00:00:15.429 align:start position:0%
+<c.colorCCCCCC>gotta</c><c.colorE5E5E5> turn it</c> into<c.colorE5E5E5> a reality</c>
+<c.colorCCCCCC>and</c><00:00:14.280><c> shows</c><c.colorCCCCCC><00:00:14.579><c> like</c><00:00:14.749><c> star</c><00:00:14.869><c> trek</c></c><c.colorE5E5E5><00:00:15.030><c> another</c></c>
+
+00:00:15.429 --> 00:00:15.829 align:start position:0%
+<c.colorCCCCCC>and</c> shows<c.colorCCCCCC> like star trek</c><c.colorE5E5E5> another
+ </c>
+
+00:00:15.829 --> 00:00:16.969 align:start position:0%
+<c.colorCCCCCC>and</c> shows<c.colorCCCCCC> like star trek</c><c.colorE5E5E5> another</c>
+<c.colorCCCCCC>science<00:00:16.219><c> fiction</c><00:00:16.570><c> portrayals</c></c>
+
+00:00:16.969 --> 00:00:17.369 align:start position:0%
+<c.colorCCCCCC>science fiction portrayals
+ </c>
+
+00:00:17.369 --> 00:00:20.090 align:start position:0%
+<c.colorCCCCCC>science fiction portrayals
+up<00:00:17.650><c> today</c></c><00:00:18.250><c> even</c><00:00:18.820><c> to</c><c.colorCCCCCC><00:00:19.099><c> this</c><00:00:19.269><c> day</c><00:00:19.720><c> with</c></c>
+
+00:00:20.090 --> 00:00:20.490 align:start position:0%
+<c.colorCCCCCC>up today</c> even to<c.colorCCCCCC> this day with
+ </c>
+
+00:00:20.490 --> 00:00:22.390 align:start position:0%
+<c.colorCCCCCC>up today</c> even to<c.colorCCCCCC> this day with
+served</c><00:00:21.289><c> I</c><c.colorCCCCCC><00:00:21.490><c> see</c><00:00:21.820><c> is</c></c><00:00:22.000><c> a</c><c.colorCCCCCC><00:00:22.050><c> kind</c><00:00:22.390><c> of</c></c>
+
+00:00:22.390 --> 00:00:22.670 align:start position:0%
+<c.colorCCCCCC>served</c> I<c.colorCCCCCC> see is</c> a<c.colorCCCCCC> kind of
+ </c>
+
+00:00:22.670 --> 00:00:23.180 align:start position:0%
+<c.colorCCCCCC>served</c> I<c.colorCCCCCC> see is</c> a<c.colorCCCCCC> kind of</c>
+stimulation
+
+00:00:23.180 --> 00:00:23.580 align:start position:0%
+stimulation
+ 
+
+00:00:23.580 --> 00:00:26.330 align:start position:0%
+stimulation
+<c.colorCCCCCC>force<00:00:25.150><c> a</c></c><c.colorE5E5E5><00:00:25.259><c> creativity</c></c><00:00:26.189><c> for</c><00:00:26.330><c> people</c>
+
+00:00:26.330 --> 00:00:26.500 align:start position:0%
+<c.colorCCCCCC>force a</c><c.colorE5E5E5> creativity</c> for people
+ 
+
+00:00:26.500 --> 00:00:27.359 align:start position:0%
+<c.colorCCCCCC>force a</c><c.colorE5E5E5> creativity</c> for people
+<c.colorCCCCCC>who<00:00:26.759><c> want</c></c><00:00:27.029><c> to</c><00:00:27.119><c> invent</c>
+
+00:00:27.359 --> 00:00:27.759 align:start position:0%
+<c.colorCCCCCC>who want</c> to invent
+ 
+
+00:00:27.759 --> 00:00:30.029 align:start position:0%
+<c.colorCCCCCC>who want</c> to invent
+<c.colorCCCCCC>more</c><00:00:29.009><c> back</c><00:00:29.470><c> in</c><00:00:29.550><c> the</c><c.colorE5E5E5><00:00:29.609><c> sixties</c></c><c.colorCCCCCC><00:00:30.029><c> with</c></c>
+
+00:00:30.029 --> 00:00:30.179 align:start position:0%
+<c.colorCCCCCC>more</c> back in the<c.colorE5E5E5> sixties</c><c.colorCCCCCC> with
+ </c>
+
+00:00:30.179 --> 00:00:30.459 align:start position:0%
+<c.colorCCCCCC>more</c> back in the<c.colorE5E5E5> sixties</c><c.colorCCCCCC> with
+Star<00:00:30.380><c> Trek</c></c>
+
+00:00:30.459 --> 00:00:30.859 align:start position:0%
+<c.colorCCCCCC>Star Trek
+ </c>
+
+00:00:30.859 --> 00:00:32.870 align:start position:0%
+<c.colorCCCCCC>Star Trek</c>
+premiered<00:00:32.289><c> that</c><c.colorE5E5E5><00:00:32.599><c> was</c></c><c.colorCCCCCC><00:00:32.770><c> an</c><00:00:32.870><c> error</c></c>
+
+00:00:32.870 --> 00:00:33.129 align:start position:0%
+premiered that<c.colorE5E5E5> was</c><c.colorCCCCCC> an error
+ </c>
+
+00:00:33.129 --> 00:00:34.330 align:start position:0%
+premiered that<c.colorE5E5E5> was</c><c.colorCCCCCC> an error
+where</c><c.colorE5E5E5><00:00:33.329><c> we</c></c><00:00:33.489><c> were</c><00:00:33.600><c> all</c><00:00:33.910><c> thinking</c><00:00:33.980><c> about</c>
+
+00:00:34.330 --> 00:00:34.730 align:start position:0%
+<c.colorCCCCCC>where</c><c.colorE5E5E5> we</c> were all thinking about
+ 
+
+00:00:34.730 --> 00:00:36.280 align:start position:0%
+<c.colorCCCCCC>where</c><c.colorE5E5E5> we</c> were all thinking about
+<c.colorE5E5E5>the</c><c.colorCCCCCC><00:00:34.950><c> city</c></c><c.colorE5E5E5><00:00:35.280><c> of</c></c><c.colorCCCCCC><00:00:35.410><c> tomorrow</c><00:00:35.980><c> him</c></c>
+
+00:00:36.280 --> 00:00:36.680 align:start position:0%
+<c.colorE5E5E5>the</c><c.colorCCCCCC> city</c><c.colorE5E5E5> of</c><c.colorCCCCCC> tomorrow him
+ </c>
+
+00:00:36.680 --> 00:00:37.920 align:start position:0%
+<c.colorE5E5E5>the</c><c.colorCCCCCC> city</c><c.colorE5E5E5> of</c><c.colorCCCCCC> tomorrow him</c>
+<c.colorE5E5E5>tomorrow</c><c.colorCCCCCC><00:00:37.090><c> transportation</c></c><c.colorE5E5E5><00:00:37.920><c> up</c></c>
+
+00:00:37.920 --> 00:00:38.020 align:start position:0%
+<c.colorE5E5E5>tomorrow</c><c.colorCCCCCC> transportation</c><c.colorE5E5E5> up
+ </c>
+
+00:00:38.020 --> 00:00:38.389 align:start position:0%
+<c.colorE5E5E5>tomorrow</c><c.colorCCCCCC> transportation</c><c.colorE5E5E5> up</c>
+tomorrow
+
+00:00:38.389 --> 00:00:38.789 align:start position:0%
+tomorrow
+ 
+
+00:00:38.789 --> 00:00:41.440 align:start position:0%
+tomorrow
+tomorrow<00:00:40.000><c> was</c><00:00:40.410><c> a</c><c.colorE5E5E5><00:00:40.739><c> daily</c></c>
+
+00:00:41.440 --> 00:00:41.840 align:start position:0%
+tomorrow was a<c.colorE5E5E5> daily
+ </c>
+
+00:00:41.840 --> 00:00:45.220 align:start position:0%
+tomorrow was a<c.colorE5E5E5> daily
+reflection</c><c.colorCCCCCC><00:00:42.539><c> we</c></c><c.colorE5E5E5><00:00:43.360><c> all</c></c><c.colorCCCCCC><00:00:44.180><c> carriers</c></c>
+
+00:00:45.220 --> 00:00:45.620 align:start position:0%
+<c.colorE5E5E5>reflection</c><c.colorCCCCCC> we</c><c.colorE5E5E5> all</c><c.colorCCCCCC> carriers
+ </c>
+
+00:00:45.620 --> 00:00:48.950 align:start position:0%
+<c.colorE5E5E5>reflection</c><c.colorCCCCCC> we</c><c.colorE5E5E5> all</c><c.colorCCCCCC> carriers
+I</c> distinctly<00:00:46.170><c> remember</c><c.colorCCCCCC><00:00:46.989><c> good</c></c><c.colorE5E5E5><00:00:48.510><c> okay</c></c>
+
+00:00:48.950 --> 00:00:49.350 align:start position:0%
+<c.colorCCCCCC>I</c> distinctly remember<c.colorCCCCCC> good</c><c.colorE5E5E5> okay
+ </c>
+
+00:00:49.350 --> 00:00:50.720 align:start position:0%
+<c.colorCCCCCC>I</c> distinctly remember<c.colorCCCCCC> good</c><c.colorE5E5E5> okay</c>
+<c.colorCCCCCC>what<00:00:49.500><c> drives</c></c><00:00:50.000><c> sure</c><c.colorCCCCCC><00:00:50.329><c> we'll</c></c><00:00:50.540><c> have</c><c.colorCCCCCC><00:00:50.720><c> that</c></c>
+
+00:00:50.720 --> 00:00:50.820 align:start position:0%
+<c.colorCCCCCC>what drives</c> sure<c.colorCCCCCC> we'll</c> have<c.colorCCCCCC> that
+ </c>
+
+00:00:50.820 --> 00:00:52.010 align:start position:0%
+<c.colorCCCCCC>what drives</c> sure<c.colorCCCCCC> we'll</c> have<c.colorCCCCCC> that
+the</c><00:00:51.010><c> future</c><c.colorCCCCCC><00:00:51.780><c> %uh</c></c>
+
+00:00:52.010 --> 00:00:52.410 align:start position:0%
+<c.colorCCCCCC>the</c> future<c.colorCCCCCC> %uh
+ </c>
+
+00:00:52.410 --> 00:00:53.520 align:start position:0%
+<c.colorCCCCCC>the</c> future<c.colorCCCCCC> %uh</c>
+little<c.colorCCCCCC><00:00:52.809><c> discs</c></c><00:00:53.260><c> that</c><c.colorCCCCCC><00:00:53.400><c> Harriet</c></c>
+
+00:00:53.520 --> 00:00:53.920 align:start position:0%
+little<c.colorCCCCCC> discs</c> that<c.colorCCCCCC> Harriet
+ </c>
+
+00:00:53.920 --> 00:00:55.170 align:start position:0%
+little<c.colorCCCCCC> discs</c> that<c.colorCCCCCC> Harriet</c>
+information<00:00:54.440><c> on</c><c.colorE5E5E5><00:00:54.600><c> it</c><00:00:54.780><c> put</c><00:00:54.989><c> it</c></c><c.colorCCCCCC><00:00:55.080><c> in</c></c><c.colorE5E5E5><00:00:55.170><c> a</c></c>
+
+00:00:55.170 --> 00:00:55.379 align:start position:0%
+information on<c.colorE5E5E5> it put it</c><c.colorCCCCCC> in</c><c.colorE5E5E5> a
+ </c>
+
+00:00:55.379 --> 00:00:55.830 align:start position:0%
+information on<c.colorE5E5E5> it put it</c><c.colorCCCCCC> in</c><c.colorE5E5E5> a</c>
+<c.colorCCCCCC>box</c><c.colorE5E5E5><00:00:55.830><c> in</c></c>
+
+00:00:55.830 --> 00:00:56.190 align:start position:0%
+<c.colorCCCCCC>box</c><c.colorE5E5E5> in
+ </c>
+
+00:00:56.190 --> 00:00:57.530 align:start position:0%
+<c.colorCCCCCC>box</c><c.colorE5E5E5> in</c>
+speaks<00:00:56.629><c> to</c><00:00:56.730><c> you</c><00:00:56.980><c> sure</c><c.colorCCCCCC><00:00:57.200><c> will</c></c><00:00:57.379><c> do</c><c.colorCCCCCC><00:00:57.420><c> that</c></c>
+
+00:00:57.530 --> 00:00:57.930 align:start position:0%
+speaks to you sure<c.colorCCCCCC> will</c> do<c.colorCCCCCC> that
+ </c>
+
+00:00:57.930 --> 00:01:00.260 align:start position:0%
+speaks to you sure<c.colorCCCCCC> will</c> do<c.colorCCCCCC> that</c>
+<c.colorE5E5E5>but</c><00:00:58.800><c> doors</c><00:00:59.489><c> that</c><00:00:59.650><c> open</c><00:00:59.989><c> just</c><c.colorCCCCCC><00:01:00.260><c> by</c></c>
+
+00:01:00.260 --> 00:01:00.360 align:start position:0%
+<c.colorE5E5E5>but</c> doors that open just<c.colorCCCCCC> by
+ </c>
+
+00:01:00.360 --> 00:01:01.079 align:start position:0%
+<c.colorE5E5E5>but</c> doors that open just<c.colorCCCCCC> by
+walking<00:01:00.550><c> towards</c></c><00:01:01.079><c> them</c>
+
+00:01:01.079 --> 00:01:01.370 align:start position:0%
+<c.colorCCCCCC>walking towards</c> them
+ 
+
+00:01:01.370 --> 00:01:02.920 align:start position:0%
+<c.colorCCCCCC>walking towards</c> them
+how<c.colorCCCCCC><00:01:01.720><c> is</c></c><00:01:01.860><c> it</c><c.colorCCCCCC><00:01:01.920><c> not</c><00:01:02.120><c> all</c><00:01:02.220><c> you</c><00:01:02.550><c> punch</c></c><c.colorE5E5E5><00:01:02.920><c> in</c></c>
+
+00:01:02.920 --> 00:01:02.989 align:start position:0%
+how<c.colorCCCCCC> is</c> it<c.colorCCCCCC> not all you punch</c><c.colorE5E5E5> in
+ </c>
+
+00:01:02.989 --> 00:01:04.810 align:start position:0%
+how<c.colorCCCCCC> is</c> it<c.colorCCCCCC> not all you punch</c><c.colorE5E5E5> in</c>
+<c.colorCCCCCC>another<00:01:03.940><c> happen</c><00:01:04.239><c> under</c></c>
+
+00:01:04.810 --> 00:01:05.210 align:start position:0%
+<c.colorCCCCCC>another happen under
+ </c>
+
+00:01:05.210 --> 00:01:08.030 align:start position:0%
+<c.colorCCCCCC>another happen under
+soap<00:01:07.040><c> no</c></c><c.colorE5E5E5><00:01:07.210><c> never</c></c><00:01:07.590><c> listen</c><00:01:07.970><c> to</c><00:01:08.030><c> me</c>
+
+00:01:08.030 --> 00:01:08.060 align:start position:0%
+<c.colorCCCCCC>soap no</c><c.colorE5E5E5> never</c> listen to me
+ 
+
+00:01:08.060 --> 00:01:08.719 align:start position:0%
+<c.colorCCCCCC>soap no</c><c.colorE5E5E5> never</c> listen to me
+predict<00:01:08.380><c> the</c><00:01:08.570><c> future</c>
+
+00:01:08.719 --> 00:01:09.119 align:start position:0%
+predict the future
+ 
+
+00:01:09.119 --> 00:01:10.430 align:start position:0%
+predict the future
+<c.colorCCCCCC>I'll<00:01:09.630><c> take</c><00:01:09.910><c> myself</c><00:01:10.060><c> out</c><00:01:10.300><c> of</c></c><c.colorE5E5E5><00:01:10.430><c> the</c></c>
+
+00:01:10.430 --> 00:01:10.520 align:start position:0%
+<c.colorCCCCCC>I'll take myself out of</c><c.colorE5E5E5> the
+ </c>
+
+00:01:10.520 --> 00:01:12.340 align:start position:0%
+<c.colorCCCCCC>I'll take myself out of</c><c.colorE5E5E5> the</c>
+running<00:01:11.000><c> for</c><c.colorCCCCCC><00:01:11.259><c> that</c><00:01:11.450><c> reason</c></c><00:01:11.900><c> in</c><00:01:12.340><c> terms</c>
+
+00:01:12.340 --> 00:01:12.590 align:start position:0%
+running for<c.colorCCCCCC> that reason</c> in terms
+ 
+
+00:01:12.590 --> 00:01:12.670 align:start position:0%
+running for<c.colorCCCCCC> that reason</c> in terms
+<c.colorCCCCCC>are</c>
+
+00:01:12.670 --> 00:01:13.070 align:start position:0%
+<c.colorCCCCCC>are
+ </c>
+
+00:01:13.070 --> 00:01:15.410 align:start position:0%
+<c.colorCCCCCC>are</c>
+up<00:01:14.360><c> the</c><c.colorCCCCCC><00:01:14.509><c> Starship</c><00:01:14.950><c> Enterprise</c></c><c.colorE5E5E5><00:01:15.410><c> for</c></c>
+
+00:01:15.410 --> 00:01:15.640 align:start position:0%
+up the<c.colorCCCCCC> Starship Enterprise</c><c.colorE5E5E5> for
+ </c>
+
+00:01:15.640 --> 00:01:16.310 align:start position:0%
+up the<c.colorCCCCCC> Starship Enterprise</c><c.colorE5E5E5> for</c>
+<c.colorCCCCCC>meeting<00:01:15.900><c> with</c></c><00:01:16.090><c> special</c>
+
+00:01:16.310 --> 00:01:16.710 align:start position:0%
+<c.colorCCCCCC>meeting with</c> special
+ 
+
+00:01:16.710 --> 00:01:19.730 align:start position:0%
+<c.colorCCCCCC>meeting with</c> special
+<c.colorE5E5E5>about<00:01:17.310><c> that</c></c><c.colorCCCCCC><00:01:17.509><c> ship</c><00:01:18.810><c> I'm</c><00:01:19.410><c> seem</c></c>
+
+00:01:19.730 --> 00:01:20.130 align:start position:0%
+<c.colorE5E5E5>about that</c><c.colorCCCCCC> ship I'm seem
+ </c>
+
+00:01:20.130 --> 00:01:21.780 align:start position:0%
+<c.colorE5E5E5>about that</c><c.colorCCCCCC> ship I'm seem</c>
+many<c.colorE5E5E5><00:01:20.780><c> science</c><00:01:21.190><c> fiction</c></c><00:01:21.539><c> movies</c><00:01:21.780><c> I</c>
+
+00:01:21.780 --> 00:01:21.840 align:start position:0%
+many<c.colorE5E5E5> science fiction</c> movies I
+ 
+
+00:01:21.840 --> 00:01:23.100 align:start position:0%
+many<c.colorE5E5E5> science fiction</c> movies I
+<c.colorE5E5E5>haven't<00:01:22.009><c> seen</c><00:01:22.160><c> them</c><00:01:22.280><c> all</c></c><c.colorCCCCCC><00:01:22.840><c> are</c></c><c.colorE5E5E5><00:01:23.100><c> seen</c></c>
+
+00:01:23.100 --> 00:01:23.350 align:start position:0%
+<c.colorE5E5E5>haven't seen them all</c><c.colorCCCCCC> are</c><c.colorE5E5E5> seen
+ </c>
+
+00:01:23.350 --> 00:01:23.359 align:start position:0%
+<c.colorE5E5E5>haven't seen them all</c><c.colorCCCCCC> are</c><c.colorE5E5E5> seen</c>
+<c.colorCCCCCC>many</c>
+
+00:01:23.359 --> 00:01:23.759 align:start position:0%
+<c.colorCCCCCC>many
+ </c>
+
+00:01:23.759 --> 00:01:25.940 align:start position:0%
+<c.colorCCCCCC>many</c>
+up<c.colorCCCCCC><00:01:23.899><c> until</c></c><00:01:24.160><c> that</c><00:01:24.310><c> point</c><00:01:24.780><c> all</c><c.colorCCCCCC><00:01:25.500><c> ship's</c></c>
+
+00:01:25.940 --> 00:01:26.340 align:start position:0%
+up<c.colorCCCCCC> until</c> that point all<c.colorCCCCCC> ship's
+ </c>
+
+00:01:26.340 --> 00:01:28.620 align:start position:0%
+up<c.colorCCCCCC> until</c> that point all<c.colorCCCCCC> ship's</c>
+that<c.colorCCCCCC><00:01:27.240><c> were</c></c><c.colorE5E5E5><00:01:27.369><c> in</c></c><c.colorCCCCCC><00:01:27.460><c> vision</c><00:01:27.810><c> did</c></c>
+
+00:01:28.620 --> 00:01:29.020 align:start position:0%
+that<c.colorCCCCCC> were</c><c.colorE5E5E5> in</c><c.colorCCCCCC> vision did
+ </c>
+
+00:01:29.020 --> 00:01:33.010 align:start position:0%
+that<c.colorCCCCCC> were</c><c.colorE5E5E5> in</c><c.colorCCCCCC> vision did</c>
+<c.colorE5E5E5>were<00:01:29.700><c> built</c></c><c.colorCCCCCC><00:01:30.250><c> an</c></c><00:01:30.619><c> occupied</c>
+
+00:01:33.010 --> 00:01:33.410 align:start position:0%
+<c.colorE5E5E5>were built</c><c.colorCCCCCC> an</c> occupied
+ 
+
+00:01:33.410 --> 00:01:36.810 align:start position:0%
+<c.colorE5E5E5>were built</c><c.colorCCCCCC> an</c> occupied
+to<00:01:33.570><c> go</c><00:01:33.760><c> to</c><00:01:33.900><c> a</c><00:01:33.950><c> destination</c>
+
+00:01:36.810 --> 00:01:37.210 align:start position:0%
+to go to a destination
+ 
+
+00:01:37.210 --> 00:01:40.190 align:start position:0%
+to go to a destination
+<c.colorCCCCCC>Starship<00:01:37.570><c> Enterprise</c><00:01:38.210><c> peddled</c></c>
+
+00:01:40.190 --> 00:01:40.590 align:start position:0%
+<c.colorCCCCCC>Starship Enterprise peddled
+ </c>
+
+00:01:40.590 --> 00:01:42.700 align:start position:0%
+<c.colorCCCCCC>Starship Enterprise peddled</c>
+<c.colorE5E5E5>just<00:01:41.320><c> was</c></c><c.colorCCCCCC><00:01:41.760><c> up</c></c>
+
+00:01:42.700 --> 00:01:43.100 align:start position:0%
+<c.colorE5E5E5>just was</c><c.colorCCCCCC> up
+ </c>
+
+00:01:43.100 --> 00:01:45.830 align:start position:0%
+<c.colorE5E5E5>just was</c><c.colorCCCCCC> up
+using<00:01:43.380><c> multiple</c><00:01:43.830><c> placed</c></c><00:01:45.400><c> that</c><00:01:45.830><c> may</c>
+
+00:01:45.830 --> 00:01:45.970 align:start position:0%
+<c.colorCCCCCC>using multiple placed</c> that may
+ 
+
+00:01:45.970 --> 00:01:47.670 align:start position:0%
+<c.colorCCCCCC>using multiple placed</c> that may
+<c.colorCCCCCC>have</c><00:01:46.150><c> been</c><00:01:46.230><c> a</c><00:01:46.300><c> first</c>
+
+00:01:47.670 --> 00:01:48.070 align:start position:0%
+<c.colorCCCCCC>have</c> been a first
+ 
+
+00:01:48.070 --> 00:01:50.690 align:start position:0%
+<c.colorCCCCCC>have</c> been a first
+to<00:01:48.200><c> transform</c><00:01:49.120><c> your</c><00:01:49.280><c> idea</c><c.colorE5E5E5><00:01:49.990><c> up</c></c><00:01:50.500><c> space</c>
+
+00:01:50.690 --> 00:01:51.090 align:start position:0%
+to transform your idea<c.colorE5E5E5> up</c> space
+ 
+
+00:01:51.090 --> 00:01:52.450 align:start position:0%
+to transform your idea<c.colorE5E5E5> up</c> space
+is<00:01:51.230><c> a</c><c.colorE5E5E5><00:01:51.480><c> is</c></c><00:01:51.840><c> a</c><00:01:51.870><c> way</c><00:01:52.060><c> for</c><00:01:52.240><c> me</c><00:01:52.280><c> to</c><00:01:52.420><c> get</c><00:01:52.450><c> from</c>
+
+00:01:52.450 --> 00:01:52.810 align:start position:0%
+is a<c.colorE5E5E5> is</c> a way for me to get from
+ 
+
+00:01:52.810 --> 00:01:54.320 align:start position:0%
+is a<c.colorE5E5E5> is</c> a way for me to get from
+A<00:01:52.860><c> to</c><c.colorCCCCCC><00:01:53.050><c> B</c><00:01:53.530><c> to</c></c>
+
+00:01:54.320 --> 00:01:54.720 align:start position:0%
+A to<c.colorCCCCCC> B to
+ </c>
+
+00:01:54.720 --> 00:01:58.110 align:start position:0%
+A to<c.colorCCCCCC> B to
+space<00:01:55.280><c> is</c></c><c.colorE5E5E5><00:01:55.480><c> a</c></c><c.colorCCCCCC><00:01:55.800><c> at</c></c>
+
+00:01:58.110 --> 00:01:58.510 align:start position:0%
+<c.colorCCCCCC>space is</c><c.colorE5E5E5> a</c><c.colorCCCCCC> at
+ </c>
+
+00:01:58.510 --> 00:02:04.510 align:start position:0%
+<c.colorCCCCCC>space is</c><c.colorE5E5E5> a</c><c.colorCCCCCC> at</c>
+<c.colorE5E5E5>limitless</c><c.colorCCCCCC><00:01:58.920><c> frontier</c></c><00:01:59.820><c> to</c><00:02:00.430><c> export</c>
+

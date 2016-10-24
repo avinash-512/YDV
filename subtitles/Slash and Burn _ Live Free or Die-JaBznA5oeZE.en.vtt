@@ -1,0 +1,350 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:00.000 --> 00:00:02.460 align:start position:0%
+ 
+it<00:00:01.260><c> should</c><00:00:01.469><c> go</c><00:00:01.589><c> back</c><00:00:01.740><c> down</c><c.colorCCCCCC><00:00:02.190><c> so</c><00:00:02.460><c> much</c></c>
+
+00:00:02.460 --> 00:00:02.730 align:start position:0%
+it should go back down<c.colorCCCCCC> so much
+ </c>
+
+00:00:02.730 --> 00:00:05.250 align:start position:0%
+it should go back down<c.colorCCCCCC> so much</c>
+green<00:00:03.179><c> around</c><c.colorCCCCCC><00:00:03.330><c> ya</c><00:00:03.959><c> at</c></c><00:00:05.220><c> the</c><c.colorCCCCCC><00:00:05.250><c> fire</c></c>
+
+00:00:05.250 --> 00:00:05.490 align:start position:0%
+green around<c.colorCCCCCC> ya at</c> the<c.colorCCCCCC> fire
+ </c>
+
+00:00:05.490 --> 00:00:07.010 align:start position:0%
+green around<c.colorCCCCCC> ya at</c> the<c.colorCCCCCC> fire</c>
+working<00:00:05.819><c> for</c><00:00:06.000><c> us</c>
+
+00:00:07.010 --> 00:00:07.410 align:start position:0%
+working for us
+ 
+
+00:00:07.410 --> 00:00:09.240 align:start position:0%
+working for us
+<c.colorE5E5E5>looks</c><00:00:07.740><c> pretty</c><c.colorCCCCCC><00:00:07.830><c> good</c></c><00:00:08.040><c> up</c><00:00:08.189><c> here</c><c.colorCCCCCC><00:00:08.280><c> god</c></c><00:00:09.240><c> we</c>
+
+00:00:09.240 --> 00:00:09.330 align:start position:0%
+<c.colorE5E5E5>looks</c> pretty<c.colorCCCCCC> good</c> up here<c.colorCCCCCC> god</c> we
+ 
+
+00:00:09.330 --> 00:00:10.920 align:start position:0%
+<c.colorE5E5E5>looks</c> pretty<c.colorCCCCCC> good</c> up here<c.colorCCCCCC> god</c> we
+just<00:00:09.389><c> burnt</c><00:00:09.750><c> like</c><00:00:09.990><c> 400</c><00:00:10.740><c> square</c><00:00:10.920><c> feet</c>
+
+00:00:10.920 --> 00:00:11.160 align:start position:0%
+just burnt like 400 square feet
+ 
+
+00:00:11.160 --> 00:00:15.960 align:start position:0%
+just burnt like 400 square feet
+<c.colorE5E5E5>or<00:00:11.309><c> some</c></c><c.colorCCCCCC><00:00:11.519><c> wow</c></c><c.colorE5E5E5><00:00:12.870><c> this</c></c><00:00:15.089><c> is</c><00:00:15.269><c> the</c><c.colorCCCCCC><00:00:15.450><c> part</c></c><c.colorE5E5E5><00:00:15.960><c> of</c></c>
+
+00:00:15.960 --> 00:00:16.109 align:start position:0%
+<c.colorE5E5E5>or some</c><c.colorCCCCCC> wow</c><c.colorE5E5E5> this</c> is the<c.colorCCCCCC> part</c><c.colorE5E5E5> of
+ </c>
+
+00:00:16.109 --> 00:00:18.180 align:start position:0%
+<c.colorE5E5E5>or some</c><c.colorCCCCCC> wow</c><c.colorE5E5E5> this</c> is the<c.colorCCCCCC> part</c><c.colorE5E5E5> of</c>
+slashing<c.colorCCCCCC><00:00:16.680><c> burn</c><00:00:17.010><c> whenever</c></c><00:00:18.060><c> we</c><00:00:18.180><c> move</c>
+
+00:00:18.180 --> 00:00:18.390 align:start position:0%
+slashing<c.colorCCCCCC> burn whenever</c> we move
+ 
+
+00:00:18.390 --> 00:00:20.760 align:start position:0%
+slashing<c.colorCCCCCC> burn whenever</c> we move
+into<00:00:18.480><c> a</c><00:00:18.630><c> new</c><00:00:18.660><c> area</c><00:00:19.050><c> to</c><c.colorCCCCCC><00:00:19.560><c> terrorists</c></c><00:00:20.760><c> it</c>
+
+00:00:20.760 --> 00:00:20.820 align:start position:0%
+into a new area to<c.colorCCCCCC> terrorists</c> it
+ 
+
+00:00:20.820 --> 00:00:23.010 align:start position:0%
+into a new area to<c.colorCCCCCC> terrorists</c> it
+out<00:00:21.060><c> to</c><00:00:21.630><c> transform</c><c.colorE5E5E5><00:00:22.410><c> into</c></c><00:00:22.710><c> a</c><00:00:23.010><c> series</c>
+
+00:00:23.010 --> 00:00:23.369 align:start position:0%
+out to transform<c.colorE5E5E5> into</c> a series
+ 
+
+00:00:23.369 --> 00:00:26.010 align:start position:0%
+out to transform<c.colorE5E5E5> into</c> a series
+of<00:00:23.430><c> steps</c><c.colorE5E5E5><00:00:23.789><c> we</c></c><00:00:25.500><c> first</c><00:00:25.859><c> have</c><00:00:25.949><c> to</c><00:00:26.010><c> clear</c>
+
+00:00:26.010 --> 00:00:26.369 align:start position:0%
+of steps<c.colorE5E5E5> we</c> first have to clear
+ 
+
+00:00:26.369 --> 00:00:27.410 align:start position:0%
+of steps<c.colorE5E5E5> we</c> first have to clear
+everything<00:00:26.609><c> that's</c><00:00:26.849><c> in</c><00:00:26.939><c> the</c><00:00:27.029><c> way</c><c.colorE5E5E5><00:00:27.240><c> and</c></c>
+
+00:00:27.410 --> 00:00:27.810 align:start position:0%
+everything that's in the way<c.colorE5E5E5> and
+ </c>
+
+00:00:27.810 --> 00:00:29.429 align:start position:0%
+everything that's in the way<c.colorE5E5E5> and</c>
+we<00:00:27.930><c> do</c><00:00:28.019><c> that</c><00:00:28.140><c> by</c><c.colorCCCCCC><00:00:28.380><c> Chopin</c></c><c.colorE5E5E5><00:00:29.369><c> and</c></c><c.colorCCCCCC><00:00:29.429><c> in</c></c>
+
+00:00:29.429 --> 00:00:29.670 align:start position:0%
+we do that by<c.colorCCCCCC> Chopin</c><c.colorE5E5E5> and</c><c.colorCCCCCC> in
+ </c>
+
+00:00:29.670 --> 00:00:31.929 align:start position:0%
+we do that by<c.colorCCCCCC> Chopin</c><c.colorE5E5E5> and</c><c.colorCCCCCC> in
+burning</c><00:00:30.210><c> stuff</c>
+
+00:00:31.929 --> 00:00:32.329 align:start position:0%
+<c.colorCCCCCC>burning</c> stuff
+ 
+
+00:00:32.329 --> 00:00:35.989 align:start position:0%
+<c.colorCCCCCC>burning</c> stuff
+<c.colorE5E5E5>Tony</c><00:00:34.519><c> and</c><c.colorE5E5E5><00:00:34.640><c> Amelia</c><00:00:35.179><c> live</c></c><00:00:35.570><c> on</c><00:00:35.719><c> just</c><00:00:35.989><c> one</c>
+
+00:00:35.989 --> 00:00:36.230 align:start position:0%
+<c.colorE5E5E5>Tony</c> and<c.colorE5E5E5> Amelia live</c> on just one
+ 
+
+00:00:36.230 --> 00:00:37.460 align:start position:0%
+<c.colorE5E5E5>Tony</c> and<c.colorE5E5E5> Amelia live</c> on just one
+acre<00:00:36.500><c> of</c><00:00:36.589><c> land</c><00:00:36.829><c> in</c><00:00:37.100><c> the</c><c.colorCCCCCC><00:00:37.250><c> Blue</c><00:00:37.460><c> Ridge</c></c>
+
+00:00:37.460 --> 00:00:37.670 align:start position:0%
+acre of land in the<c.colorCCCCCC> Blue Ridge
+ </c>
+
+00:00:37.670 --> 00:00:39.739 align:start position:0%
+acre of land in the<c.colorCCCCCC> Blue Ridge
+Mountains<00:00:37.820><c> we've</c></c><00:00:39.440><c> got</c><c.colorE5E5E5><00:00:39.679><c> to</c></c><00:00:39.739><c> make</c>
+
+00:00:39.739 --> 00:00:39.859 align:start position:0%
+<c.colorCCCCCC>Mountains we've</c> got<c.colorE5E5E5> to</c> make
+ 
+
+00:00:39.859 --> 00:00:41.020 align:start position:0%
+<c.colorCCCCCC>Mountains we've</c> got<c.colorE5E5E5> to</c> make
+<c.colorE5E5E5>every</c><00:00:40.159><c> inch</c><00:00:40.579><c> of</c><00:00:40.670><c> their</c><00:00:40.789><c> property</c>
+
+00:00:41.020 --> 00:00:41.420 align:start position:0%
+<c.colorE5E5E5>every</c> inch of their property
+ 
+
+00:00:41.420 --> 00:00:43.990 align:start position:0%
+<c.colorE5E5E5>every</c> inch of their property
+count<c.colorE5E5E5><00:00:41.899><c> by</c></c><00:00:42.260><c> any</c><c.colorE5E5E5><00:00:42.589><c> means</c><00:00:42.949><c> necessary</c></c>
+
+00:00:43.990 --> 00:00:44.390 align:start position:0%
+count<c.colorE5E5E5> by</c> any<c.colorE5E5E5> means necessary
+ </c>
+
+00:00:44.390 --> 00:00:45.739 align:start position:0%
+count<c.colorE5E5E5> by</c> any<c.colorE5E5E5> means necessary</c>
+this<00:00:44.600><c> is</c><00:00:44.690><c> how</c><00:00:44.839><c> you</c><c.colorCCCCCC><00:00:45.109><c> tame</c><00:00:45.679><c> a</c></c><c.colorE5E5E5><00:00:45.739><c> mountain</c></c>
+
+00:00:45.739 --> 00:00:46.129 align:start position:0%
+this is how you<c.colorCCCCCC> tame a</c><c.colorE5E5E5> mountain
+ </c>
+
+00:00:46.129 --> 00:00:48.439 align:start position:0%
+this is how you<c.colorCCCCCC> tame a</c><c.colorE5E5E5> mountain</c>
+<c.colorCCCCCC>not<00:00:46.699><c> get</c><00:00:46.850><c> it</c></c><00:00:46.909><c> all</c><c.colorCCCCCC><00:00:47.089><c> down</c><00:00:47.269><c> start</c><00:00:48.409><c> a</c><00:00:48.439><c> new</c></c>
+
+00:00:48.439 --> 00:00:48.619 align:start position:0%
+<c.colorCCCCCC>not get it</c> all<c.colorCCCCCC> down start a new
+ </c>
+
+00:00:48.619 --> 00:00:50.889 align:start position:0%
+<c.colorCCCCCC>not get it</c> all<c.colorCCCCCC> down start a new
+this</c><00:00:49.549><c> is</c><00:00:49.640><c> a</c><00:00:49.699><c> steep</c><c.colorE5E5E5><00:00:50.119><c> region</c></c><c.colorCCCCCC><00:00:50.510><c> steeper</c></c>
+
+00:00:50.889 --> 00:00:51.289 align:start position:0%
+<c.colorCCCCCC>this</c> is a steep<c.colorE5E5E5> region</c><c.colorCCCCCC> steeper
+ </c>
+
+00:00:51.289 --> 00:00:52.189 align:start position:0%
+<c.colorCCCCCC>this</c> is a steep<c.colorE5E5E5> region</c><c.colorCCCCCC> steeper
+the</c><00:00:51.379><c> land</c><00:00:51.739><c> the</c><00:00:51.799><c> cheaper</c><00:00:52.100><c> the</c><00:00:52.189><c> land</c>
+
+00:00:52.189 --> 00:00:52.489 align:start position:0%
+<c.colorCCCCCC>the</c> land the cheaper the land
+ 
+
+00:00:52.489 --> 00:00:54.379 align:start position:0%
+<c.colorCCCCCC>the</c> land the cheaper the land
+and<00:00:53.390><c> when</c><c.colorCCCCCC><00:00:53.719><c> I</c></c><00:00:53.780><c> bought</c><c.colorCCCCCC><00:00:53.899><c> this</c></c><00:00:54.109><c> piece</c><00:00:54.379><c> of</c>
+
+00:00:54.379 --> 00:00:54.469 align:start position:0%
+and when<c.colorCCCCCC> I</c> bought<c.colorCCCCCC> this</c> piece of
+ 
+
+00:00:54.469 --> 00:00:55.609 align:start position:0%
+and when<c.colorCCCCCC> I</c> bought<c.colorCCCCCC> this</c> piece of
+land<c.colorCCCCCC><00:00:54.589><c> i</c></c><c.colorE5E5E5><00:00:54.949><c> had</c><00:00:55.100><c> like</c></c><00:00:55.219><c> almost</c><00:00:55.460><c> no</c><00:00:55.609><c> money</c>
+
+00:00:55.609 --> 00:00:55.789 align:start position:0%
+land<c.colorCCCCCC> i</c><c.colorE5E5E5> had like</c> almost no money
+ 
+
+00:00:55.789 --> 00:00:58.189 align:start position:0%
+land<c.colorCCCCCC> i</c><c.colorE5E5E5> had like</c> almost no money
+<c.colorCCCCCC>so</c><c.colorE5E5E5><00:00:56.600><c> for</c></c><c.colorCCCCCC><00:00:57.320><c> eight</c></c><00:00:57.589><c> years</c><c.colorE5E5E5><00:00:57.739><c> we've</c></c><00:00:58.189><c> been</c>
+
+00:00:58.189 --> 00:00:58.339 align:start position:0%
+<c.colorCCCCCC>so</c><c.colorE5E5E5> for</c><c.colorCCCCCC> eight</c> years<c.colorE5E5E5> we've</c> been
+ 
+
+00:00:58.339 --> 00:01:00.610 align:start position:0%
+<c.colorCCCCCC>so</c><c.colorE5E5E5> for</c><c.colorCCCCCC> eight</c> years<c.colorE5E5E5> we've</c> been
+taking<00:00:58.699><c> this</c><00:00:59.359><c> type</c><00:00:59.629><c> of</c><00:00:59.719><c> land</c><c.colorE5E5E5><00:01:00.229><c> and</c></c>
+
+00:01:00.610 --> 00:01:01.010 align:start position:0%
+taking this type of land<c.colorE5E5E5> and
+ </c>
+
+00:01:01.010 --> 00:01:02.329 align:start position:0%
+taking this type of land<c.colorE5E5E5> and
+then<00:01:01.129><c> turning</c><00:01:01.429><c> it</c><00:01:01.489><c> into</c></c><00:01:01.789><c> this</c><00:01:02.329><c> type</c>
+
+00:01:02.329 --> 00:01:02.629 align:start position:0%
+<c.colorE5E5E5>then turning it into</c> this type
+ 
+
+00:01:02.629 --> 00:01:04.789 align:start position:0%
+<c.colorE5E5E5>then turning it into</c> this type
+of<00:01:02.719><c> land</c><00:01:03.170><c> by</c><00:01:03.769><c> slashing</c><c.colorE5E5E5><00:01:04.640><c> and</c></c><00:01:04.789><c> burning</c>
+
+00:01:04.789 --> 00:01:04.850 align:start position:0%
+of land by slashing<c.colorE5E5E5> and</c> burning
+ 
+
+00:01:04.850 --> 00:01:07.970 align:start position:0%
+of land by slashing<c.colorE5E5E5> and</c> burning
+<c.colorCCCCCC>burning</c><00:01:06.200><c> finally</c><c.colorCCCCCC><00:01:06.770><c> ninety</c></c><c.colorE5E5E5><00:01:07.970><c> percent</c></c>
+
+00:01:07.970 --> 00:01:08.090 align:start position:0%
+<c.colorCCCCCC>burning</c> finally<c.colorCCCCCC> ninety</c><c.colorE5E5E5> percent
+ </c>
+
+00:01:08.090 --> 00:01:09.380 align:start position:0%
+<c.colorCCCCCC>burning</c> finally<c.colorCCCCCC> ninety</c><c.colorE5E5E5> percent</c>
+of<00:01:08.509><c> our</c><c.colorE5E5E5><00:01:08.630><c> property</c></c><00:01:09.259><c> has</c><00:01:09.350><c> been</c><00:01:09.380><c> brought</c>
+
+00:01:09.380 --> 00:01:09.679 align:start position:0%
+of our<c.colorE5E5E5> property</c> has been brought
+ 
+
+00:01:09.679 --> 00:01:12.619 align:start position:0%
+of our<c.colorE5E5E5> property</c> has been brought
+under<00:01:09.920><c> domestication</c><c.colorE5E5E5><00:01:10.789><c> and</c><00:01:11.720><c> this</c></c><00:01:12.619><c> is</c>
+
+00:01:12.619 --> 00:01:12.979 align:start position:0%
+under domestication<c.colorE5E5E5> and this</c> is
+ 
+
+00:01:12.979 --> 00:01:15.080 align:start position:0%
+under domestication<c.colorE5E5E5> and this</c> is
+<c.colorE5E5E5>last</c><00:01:13.700><c> ten</c><00:01:13.880><c> percent</c><00:01:14.390><c> that</c><00:01:14.810><c> were</c><c.colorCCCCCC><00:01:15.080><c> we're</c></c>
+
+00:01:15.080 --> 00:01:15.380 align:start position:0%
+<c.colorE5E5E5>last</c> ten percent that were<c.colorCCCCCC> we're
+ </c>
+
+00:01:15.380 --> 00:01:17.299 align:start position:0%
+<c.colorE5E5E5>last</c> ten percent that were<c.colorCCCCCC> we're</c>
+<c.colorE5E5E5>getting<00:01:15.619><c> into</c></c><00:01:15.860><c> here</c><c.colorCCCCCC><00:01:16.009><c> throw-in</c><00:01:17.299><c> were</c></c>
+
+00:01:17.299 --> 00:01:17.479 align:start position:0%
+<c.colorE5E5E5>getting into</c> here<c.colorCCCCCC> throw-in were
+ </c>
+
+00:01:17.479 --> 00:01:20.139 align:start position:0%
+<c.colorE5E5E5>getting into</c> here<c.colorCCCCCC> throw-in were</c>
+<c.colorE5E5E5>three</c><00:01:17.780><c> on</c><00:01:17.959><c> this</c><00:01:18.080><c> thing</c><00:01:18.380><c> and</c><00:01:18.979><c> keep</c>
+
+00:01:20.139 --> 00:01:20.539 align:start position:0%
+<c.colorE5E5E5>three</c> on this thing and keep
+ 
+
+00:01:20.539 --> 00:01:24.049 align:start position:0%
+<c.colorE5E5E5>three</c> on this thing and keep
+slashing<00:01:21.110><c> and</c><00:01:21.319><c> burning</c><c.colorCCCCCC><00:01:21.409><c> get</c></c><00:01:23.869><c> that</c><c.colorCCCCCC><00:01:24.049><c> ma</c></c>
+
+00:01:24.049 --> 00:01:24.200 align:start position:0%
+slashing and burning<c.colorCCCCCC> get</c> that<c.colorCCCCCC> ma
+ </c>
+
+00:01:24.200 --> 00:01:26.980 align:start position:0%
+slashing and burning<c.colorCCCCCC> get</c> that<c.colorCCCCCC> ma
+Parker<00:01:24.560><c> alright</c><00:01:25.850><c> we're</c></c><00:01:26.780><c> clear</c>
+
+00:01:26.980 --> 00:01:27.380 align:start position:0%
+<c.colorCCCCCC>Parker alright we're</c> clear
+ 
+
+00:01:27.380 --> 00:01:28.880 align:start position:0%
+<c.colorCCCCCC>Parker alright we're</c> clear
+looks<00:01:27.920><c> like</c><00:01:28.039><c> it</c><00:01:28.190><c> might</c><00:01:28.399><c> burn</c><00:01:28.549><c> for</c><c.colorE5E5E5><00:01:28.880><c> a</c></c>
+
+00:01:28.880 --> 00:01:28.909 align:start position:0%
+looks like it might burn for<c.colorE5E5E5> a
+ </c>
+
+00:01:28.909 --> 00:01:30.470 align:start position:0%
+looks like it might burn for<c.colorE5E5E5> a
+while</c><00:01:29.270><c> now</c><c.colorCCCCCC><00:01:29.330><c> i'll</c></c><c.colorE5E5E5><00:01:30.080><c> let</c></c><00:01:30.170><c> that</c><c.colorE5E5E5><00:01:30.229><c> burn</c></c><c.colorCCCCCC><00:01:30.470><c> ya</c></c>
+
+00:01:30.470 --> 00:01:30.799 align:start position:0%
+<c.colorE5E5E5>while</c> now<c.colorCCCCCC> i'll</c><c.colorE5E5E5> let</c> that<c.colorE5E5E5> burn</c><c.colorCCCCCC> ya
+ </c>
+
+00:01:30.799 --> 00:01:32.740 align:start position:0%
+<c.colorE5E5E5>while</c> now<c.colorCCCCCC> i'll</c><c.colorE5E5E5> let</c> that<c.colorE5E5E5> burn</c><c.colorCCCCCC> ya</c>
+<c.colorE5E5E5>getting<00:01:32.000><c> pretty</c></c><00:01:32.240><c> hungry</c>
+
+00:01:32.740 --> 00:01:33.140 align:start position:0%
+<c.colorE5E5E5>getting pretty</c> hungry
+ 
+
+00:01:33.140 --> 00:01:34.490 align:start position:0%
+<c.colorE5E5E5>getting pretty</c> hungry
+<c.colorE5E5E5>get<00:01:33.289><c> the</c><00:01:33.409><c> hell</c></c><c.colorCCCCCC><00:01:33.500><c> outta</c></c><00:01:33.649><c> here</c><c.colorCCCCCC><00:01:33.709><c> I</c></c><00:01:34.490><c> guess</c>
+
+00:01:34.490 --> 00:01:34.640 align:start position:0%
+<c.colorE5E5E5>get the hell</c><c.colorCCCCCC> outta</c> here<c.colorCCCCCC> I</c> guess
+ 
+
+00:01:34.640 --> 00:01:36.339 align:start position:0%
+<c.colorE5E5E5>get the hell</c><c.colorCCCCCC> outta</c> here<c.colorCCCCCC> I</c> guess
+<c.colorCCCCCC>if</c><00:01:34.850><c> we</c><00:01:34.970><c> keep</c><00:01:35.179><c> an</c><00:01:35.360><c> eye</c><00:01:35.420><c> on</c><00:01:35.569><c> the</c><00:01:35.720><c> fire</c>
+
+00:01:36.339 --> 00:01:36.739 align:start position:0%
+<c.colorCCCCCC>if</c> we keep an eye on the fire
+ 
+
+00:01:36.739 --> 00:01:38.199 align:start position:0%
+<c.colorCCCCCC>if</c> we keep an eye on the fire
+<c.colorCCCCCC>I</c><c.colorE5E5E5><00:01:36.920><c> always</c><00:01:37.069><c> get</c></c><c.colorCCCCCC><00:01:37.310><c> ahead</c><00:01:37.789><c> at</c></c><00:01:37.940><c> this</c><00:01:38.060><c> point</c>
+
+00:01:38.199 --> 00:01:38.599 align:start position:0%
+<c.colorCCCCCC>I</c><c.colorE5E5E5> always get</c><c.colorCCCCCC> ahead at</c> this point
+ 
+
+00:01:38.599 --> 00:01:44.599 align:start position:0%
+<c.colorCCCCCC>I</c><c.colorE5E5E5> always get</c><c.colorCCCCCC> ahead at</c> this point
+<c.colorCCCCCC>ok</c>
+

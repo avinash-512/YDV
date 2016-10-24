@@ -1,0 +1,42 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:00.000 --> 00:00:33.899 align:start position:0%
+ 
+<c.colorCCCCCC>everyone<00:00:32.759><c> I'm</c><00:00:32.969><c> Betty</c><00:00:33.300><c> Gregory</c></c><00:00:33.750><c> and</c>
+
+00:00:33.899 --> 00:00:35.219 align:start position:0%
+ 
+all<00:00:34.110><c> of</c><00:00:34.260><c> that</c><c.colorE5E5E5><00:00:34.320><c> was</c></c><00:00:34.559><c> extras</c><00:00:35.010><c> from</c><00:00:35.219><c> my</c>
+
+00:00:35.219 --> 00:00:35.370 align:start position:0%
+all of that<c.colorE5E5E5> was</c> extras from my
+ 
+
+00:00:35.370 --> 00:00:37.159 align:start position:0%
+all of that<c.colorE5E5E5> was</c> extras from my
+new<00:00:35.610><c> web</c><00:00:35.880><c> series</c><c.colorCCCCCC><00:00:36.059><c> wildlife</c><00:00:36.960><c> click</c></c>
+
+00:00:37.159 --> 00:00:37.559 align:start position:0%
+new web series<c.colorCCCCCC> wildlife click
+ </c>
+
+00:00:37.559 --> 00:00:38.879 align:start position:0%
+new web series<c.colorCCCCCC> wildlife click
+just</c><00:00:38.010><c> here</c><00:00:38.219><c> to</c><00:00:38.550><c> watch</c><00:00:38.610><c> the</c><00:00:38.879><c> whole</c>
+
+00:00:38.879 --> 00:00:39.090 align:start position:0%
+<c.colorCCCCCC>just</c> here to watch the whole
+ 
+
+00:00:39.090 --> 00:00:45.090 align:start position:0%
+<c.colorCCCCCC>just</c> here to watch the whole
+episode<c.colorE5E5E5><00:00:39.570><c> all</c></c><00:00:39.870><c> about</c><c.colorE5E5E5><00:00:40.230><c> whales</c></c>
+

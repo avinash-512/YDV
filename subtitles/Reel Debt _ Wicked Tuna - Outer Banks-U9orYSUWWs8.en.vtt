@@ -1,0 +1,110 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:15.640 --> 00:00:18.639 align:start position:0%
+ 
+looks<00:00:16.450><c> terrible</c>
+
+00:00:18.639 --> 00:00:19.039 align:start position:0%
+looks terrible
+ 
+
+00:00:19.039 --> 00:00:32.759 align:start position:0%
+looks terrible
+<c.colorCCCCCC>mr<00:00:21.439><c> Mitchell</c></c><c.colorE5E5E5><00:00:21.640><c> told</c></c><00:00:21.929><c> me</c><00:00:32.349><c> to</c><00:00:32.460><c> get</c><00:00:32.669><c> out</c>
+
+00:00:32.759 --> 00:00:35.730 align:start position:0%
+ 
+<c.colorE5E5E5>and</c><00:00:32.969><c> go</c><00:00:33.100><c> to</c><00:00:33.210><c> work</c><c.colorCCCCCC><00:00:33.410><c> but</c></c><c.colorE5E5E5><00:00:34.550><c> we</c><00:00:35.519><c> don't</c></c><00:00:35.730><c> know</c>
+
+00:00:35.730 --> 00:00:35.850 align:start position:0%
+<c.colorE5E5E5>and</c> go to work<c.colorCCCCCC> but</c><c.colorE5E5E5> we don't</c> know
+ 
+
+00:00:35.850 --> 00:00:36.920 align:start position:0%
+<c.colorE5E5E5>and</c> go to work<c.colorCCCCCC> but</c><c.colorE5E5E5> we don't</c> know
+<c.colorCCCCCC>once</c><00:00:36.220><c> we</c><c.colorE5E5E5><00:00:36.290><c> don't</c></c><00:00:36.570><c> make</c><00:00:36.739><c> any</c><00:00:36.920><c> money</c>
+
+00:00:36.920 --> 00:00:37.059 align:start position:0%
+<c.colorCCCCCC>once</c> we<c.colorE5E5E5> don't</c> make any money
+ 
+
+00:00:37.059 --> 00:00:51.970 align:start position:0%
+<c.colorCCCCCC>once</c> we<c.colorE5E5E5> don't</c> make any money
+<c.colorCCCCCC>from</c><c.colorE5E5E5><00:00:39.680><c> the</c></c><00:00:39.780><c> bridge</c><c.colorCCCCCC><00:00:40.089><c> in</c><00:00:40.229><c> 2003</c></c><c.colorE5E5E5><00:00:50.430><c> $3.80</c></c>
+
+00:00:51.970 --> 00:00:53.200 align:start position:0%
+ 
+working<c.colorE5E5E5><00:00:53.129><c> hard</c></c>
+
+00:00:53.200 --> 00:00:53.600 align:start position:0%
+working<c.colorE5E5E5> hard
+ </c>
+
+00:00:53.600 --> 00:01:01.839 align:start position:0%
+working<c.colorE5E5E5> hard</c>
+<c.colorCCCCCC>family</c><00:01:00.610><c> friends</c><c.colorE5E5E5><00:01:01.220><c> that</c></c><00:01:01.379><c> we</c><00:01:01.670><c> need</c><00:01:01.839><c> to</c>
+
+00:01:01.839 --> 00:01:01.869 align:start position:0%
+<c.colorCCCCCC>family</c> friends<c.colorE5E5E5> that</c> we need to
+ 
+
+00:01:01.869 --> 00:01:04.579 align:start position:0%
+<c.colorCCCCCC>family</c> friends<c.colorE5E5E5> that</c> we need to
+get<00:01:01.979><c> this</c><00:01:02.100><c> money</c><c.colorE5E5E5><00:01:02.339><c> to</c></c><c.colorCCCCCC><00:01:02.710><c> hold</c></c><00:01:04.579><c> the</c>
+
+00:01:04.579 --> 00:01:04.869 align:start position:0%
+get this money<c.colorE5E5E5> to</c><c.colorCCCCCC> hold</c> the
+ 
+
+00:01:04.869 --> 00:01:10.500 align:start position:0%
+get this money<c.colorE5E5E5> to</c><c.colorCCCCCC> hold</c> the
+<c.colorCCCCCC>forecast</c><00:01:09.979><c> for</c><c.colorE5E5E5><00:01:10.020><c> later</c></c><00:01:10.340><c> today</c><c.colorCCCCCC><00:01:10.500><c> and</c></c>
+
+00:01:10.500 --> 00:01:10.729 align:start position:0%
+<c.colorCCCCCC>forecast</c> for<c.colorE5E5E5> later</c> today<c.colorCCCCCC> and
+ </c>
+
+00:01:10.729 --> 00:01:12.000 align:start position:0%
+<c.colorCCCCCC>forecast</c> for<c.colorE5E5E5> later</c> today<c.colorCCCCCC> and</c>
+<c.colorE5E5E5>tonight</c><c.colorCCCCCC><00:01:11.100><c> whenever</c></c><c.colorE5E5E5><00:01:11.560><c> they</c><00:01:11.869><c> forecast</c></c>
+
+00:01:12.000 --> 00:01:12.400 align:start position:0%
+<c.colorE5E5E5>tonight</c><c.colorCCCCCC> whenever</c><c.colorE5E5E5> they forecast
+ </c>
+
+00:01:12.400 --> 00:01:18.110 align:start position:0%
+<c.colorE5E5E5>tonight</c><c.colorCCCCCC> whenever</c><c.colorE5E5E5> they forecast
+3431</c><c.colorCCCCCC><00:01:14.909><c> blowing</c></c><00:01:16.939><c> harder</c><00:01:17.720><c> than</c><c.colorCCCCCC><00:01:17.979><c> my</c><00:01:18.110><c> vote</c></c>
+
+00:01:18.110 --> 00:01:18.350 align:start position:0%
+<c.colorE5E5E5>3431</c><c.colorCCCCCC> blowing</c> harder than<c.colorCCCCCC> my vote
+ </c>
+
+00:01:18.350 --> 00:01:21.990 align:start position:0%
+<c.colorE5E5E5>3431</c><c.colorCCCCCC> blowing</c> harder than<c.colorCCCCCC> my vote</c>
+<c.colorE5E5E5>is<00:01:18.479><c> long</c></c><c.colorCCCCCC><00:01:18.850><c> to</c></c><00:01:21.159><c> get</c><00:01:21.310><c> out</c><c.colorE5E5E5><00:01:21.590><c> and</c><00:01:21.869><c> try</c></c><00:01:21.990><c> to</c>
+
+00:01:21.990 --> 00:01:22.149 align:start position:0%
+<c.colorE5E5E5>is long</c><c.colorCCCCCC> to</c> get out<c.colorE5E5E5> and try</c> to
+ 
+
+00:01:22.149 --> 00:01:23.350 align:start position:0%
+<c.colorE5E5E5>is long</c><c.colorCCCCCC> to</c> get out<c.colorE5E5E5> and try</c> to
+catch<c.colorE5E5E5><00:01:22.380><c> one</c></c><c.colorCCCCCC><00:01:22.600><c> for</c></c><00:01:23.000><c> the</c><00:01:23.110><c> weather</c><00:01:23.350><c> gets</c>
+
+00:01:23.350 --> 00:01:23.470 align:start position:0%
+catch<c.colorE5E5E5> one</c><c.colorCCCCCC> for</c> the weather gets
+ 
+
+00:01:23.470 --> 00:01:29.470 align:start position:0%
+catch<c.colorE5E5E5> one</c><c.colorCCCCCC> for</c> the weather gets
+bad
+

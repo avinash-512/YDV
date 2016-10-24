@@ -1,0 +1,58 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:52.090 --> 00:01:02.739 align:start position:0%
+ 
+hey<00:01:01.450><c> everyone</c><c.colorE5E5E5><00:01:01.690><c> I'm</c></c><c.colorCCCCCC><00:01:01.960><c> betting</c></c><c.colorE5E5E5><00:01:02.410><c> angry</c></c>
+
+00:01:02.739 --> 00:01:03.970 align:start position:0%
+ 
+<c.colorE5E5E5>and</c><c.colorCCCCCC><00:01:02.920><c> I</c><00:01:02.980><c> shot</c></c><00:01:03.280><c> all</c><00:01:03.430><c> of</c><c.colorE5E5E5><00:01:03.550><c> that</c><00:01:03.760><c> for</c></c><00:01:03.970><c> my</c>
+
+00:01:03.970 --> 00:01:04.089 align:start position:0%
+<c.colorE5E5E5>and</c><c.colorCCCCCC> I shot</c> all of<c.colorE5E5E5> that for</c> my
+ 
+
+00:01:04.089 --> 00:01:06.310 align:start position:0%
+<c.colorE5E5E5>and</c><c.colorCCCCCC> I shot</c> all of<c.colorE5E5E5> that for</c> my
+new<00:01:04.360><c> web</c><00:01:04.629><c> series</c><c.colorCCCCCC><00:01:04.809><c> wildlife</c></c><00:01:05.800><c> to</c><00:01:06.310><c> join</c>
+
+00:01:06.310 --> 00:01:06.610 align:start position:0%
+new web series<c.colorCCCCCC> wildlife</c> to join
+ 
+
+00:01:06.610 --> 00:01:07.810 align:start position:0%
+new web series<c.colorCCCCCC> wildlife</c> to join
+me<00:01:06.729><c> on</c><00:01:06.820><c> the</c><00:01:06.910><c> whole</c><00:01:07.180><c> adventure</c><00:01:07.360><c> to</c><00:01:07.810><c> get</c>
+
+00:01:07.810 --> 00:01:07.960 align:start position:0%
+me on the whole adventure to get
+ 
+
+00:01:07.960 --> 00:01:09.310 align:start position:0%
+me on the whole adventure to get
+the<00:01:08.050><c> shot</c><00:01:08.380><c> and</c><00:01:08.680><c> to</c><00:01:08.800><c> learn</c><00:01:08.950><c> more</c><00:01:09.310><c> about</c>
+
+00:01:09.310 --> 00:01:09.340 align:start position:0%
+the shot and to learn more about
+ 
+
+00:01:09.340 --> 00:01:11.250 align:start position:0%
+the shot and to learn more about
+these<00:01:09.640><c> awesome</c><00:01:10.150><c> animals</c><c.colorCCCCCC><00:01:10.270><c> click</c><00:01:11.110><c> just</c></c>
+
+00:01:11.250 --> 00:01:11.650 align:start position:0%
+these awesome animals<c.colorCCCCCC> click just
+ </c>
+
+00:01:11.650 --> 00:01:17.650 align:start position:0%
+these awesome animals<c.colorCCCCCC> click just</c>
+<c.colorE5E5E5>here</c>
+

@@ -1,0 +1,174 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:00.000 --> 00:00:01.050 align:start position:0%
+ 
+one<00:00:00.450><c> thing</c><00:00:00.659><c> that</c><00:00:00.810><c> maybe</c><00:00:01.050><c> people</c>
+
+00:00:01.050 --> 00:00:01.260 align:start position:0%
+one thing that maybe people
+ 
+
+00:00:01.260 --> 00:00:03.680 align:start position:0%
+one thing that maybe people
+don't<00:00:01.530><c> know</c><00:00:01.829><c> is</c><00:00:02.429><c> that</c><00:00:02.520><c> there</c><00:00:02.939><c> are</c><c.colorE5E5E5><00:00:03.090><c> low</c></c>
+
+00:00:03.680 --> 00:00:04.080 align:start position:0%
+don't know is that there are<c.colorE5E5E5> low
+ </c>
+
+00:00:04.080 --> 00:00:05.300 align:start position:0%
+don't know is that there are<c.colorE5E5E5> low</c>
+in<00:00:04.230><c> the</c><00:00:04.259><c> dark</c><c.colorCCCCCC><00:00:04.529><c> sharks</c></c>
+
+00:00:05.300 --> 00:00:05.700 align:start position:0%
+in the dark<c.colorCCCCCC> sharks
+ </c>
+
+00:00:05.700 --> 00:00:07.319 align:start position:0%
+in the dark<c.colorCCCCCC> sharks</c>
+<c.colorE5E5E5>these</c><00:00:06.000><c> are</c><00:00:06.359><c> sharks</c><00:00:07.259><c> that</c><00:00:07.319><c> have</c>
+
+00:00:07.319 --> 00:00:07.529 align:start position:0%
+<c.colorE5E5E5>these</c> are sharks that have
+ 
+
+00:00:07.529 --> 00:00:09.290 align:start position:0%
+<c.colorE5E5E5>these</c> are sharks that have
+compounds<00:00:08.670><c> in</c><00:00:08.790><c> their</c><00:00:08.940><c> skin</c><00:00:09.269><c> that</c>
+
+00:00:09.290 --> 00:00:09.690 align:start position:0%
+compounds in their skin that
+ 
+
+00:00:09.690 --> 00:00:11.090 align:start position:0%
+compounds in their skin that
+take<00:00:09.990><c> the</c><00:00:10.139><c> blue</c><c.colorE5E5E5><00:00:10.380><c> ocean</c></c><00:00:10.800><c> light</c><00:00:11.070><c> and</c>
+
+00:00:11.090 --> 00:00:11.490 align:start position:0%
+take the blue<c.colorE5E5E5> ocean</c> light and
+ 
+
+00:00:11.490 --> 00:00:20.070 align:start position:0%
+take the blue<c.colorE5E5E5> ocean</c> light and
+make<00:00:11.670><c> other</c><c.colorCCCCCC><00:00:11.910><c> colleges</c></c><00:00:12.360><c> for</c><00:00:20.070><c> them</c>
+
+00:00:20.070 --> 00:00:20.369 align:start position:0%
+make other<c.colorCCCCCC> colleges</c> for them
+ 
+
+00:00:20.369 --> 00:00:21.680 align:start position:0%
+make other<c.colorCCCCCC> colleges</c> for them
+it's<00:00:20.609><c> like</c><00:00:20.699><c> having</c><00:00:20.970><c> a</c><00:00:21.029><c> secret</c><00:00:21.390><c> mode</c>
+
+00:00:21.680 --> 00:00:22.080 align:start position:0%
+it's like having a secret mode
+ 
+
+00:00:22.080 --> 00:00:23.810 align:start position:0%
+it's like having a secret mode
+of<00:00:22.199><c> communication</c><c.colorCCCCCC><00:00:22.410><c> like</c><00:00:23.609><c> a</c><00:00:23.699><c> covert</c></c>
+
+00:00:23.810 --> 00:00:24.210 align:start position:0%
+of communication<c.colorCCCCCC> like a covert
+ </c>
+
+00:00:24.210 --> 00:00:33.510 align:start position:0%
+of communication<c.colorCCCCCC> like a covert</c>
+<c.colorE5E5E5>channel<00:00:24.840><c> like</c></c><00:00:32.610><c> humans</c><c.colorE5E5E5><00:00:33.239><c> they</c></c><00:00:33.510><c> only</c>
+
+00:00:33.510 --> 00:00:33.719 align:start position:0%
+<c.colorE5E5E5>channel like</c> humans<c.colorE5E5E5> they</c> only
+ 
+
+00:00:33.719 --> 00:00:35.610 align:start position:0%
+<c.colorE5E5E5>channel like</c> humans<c.colorE5E5E5> they</c> only
+see<00:00:33.989><c> blue</c><00:00:34.320><c> and</c><00:00:34.500><c> green</c><c.colorCCCCCC><00:00:34.800><c> so</c></c><00:00:35.370><c> to</c><00:00:35.610><c> them</c>
+
+00:00:35.610 --> 00:00:35.790 align:start position:0%
+see blue and green<c.colorCCCCCC> so</c> to them
+ 
+
+00:00:35.790 --> 00:00:37.320 align:start position:0%
+see blue and green<c.colorCCCCCC> so</c> to them
+<c.colorCCCCCC>this</c><c.colorE5E5E5><00:00:36.360><c> fluorescence</c><00:00:37.140><c> that</c><00:00:37.320><c> they're</c></c>
+
+00:00:37.320 --> 00:00:37.440 align:start position:0%
+<c.colorCCCCCC>this</c><c.colorE5E5E5> fluorescence that they're
+ </c>
+
+00:00:37.440 --> 00:00:39.030 align:start position:0%
+<c.colorCCCCCC>this</c><c.colorE5E5E5> fluorescence that they're</c>
+creating<c.colorCCCCCC><00:00:37.890><c> it</c><00:00:38.070><c> yep</c></c><c.colorE5E5E5><00:00:38.280><c> is</c></c><00:00:38.610><c> sticking</c><00:00:39.030><c> out</c>
+
+00:00:39.030 --> 00:00:39.270 align:start position:0%
+creating<c.colorCCCCCC> it yep</c><c.colorE5E5E5> is</c> sticking out
+ 
+
+00:00:39.270 --> 00:00:40.100 align:start position:0%
+creating<c.colorCCCCCC> it yep</c><c.colorE5E5E5> is</c> sticking out
+like<00:00:39.329><c> a</c><00:00:39.450><c> sore</c><00:00:39.510><c> thumb</c>
+
+00:00:40.100 --> 00:00:40.500 align:start position:0%
+like a sore thumb
+ 
+
+00:00:40.500 --> 00:00:45.570 align:start position:0%
+like a sore thumb
+they<00:00:40.980><c> can</c><00:00:41.129><c> easily</c><00:00:41.610><c> find</c>
+
+00:00:45.570 --> 00:00:45.970 align:start position:0%
+they can easily find
+ 
+
+00:00:45.970 --> 00:00:49.350 align:start position:0%
+they can easily find
+you<00:00:47.500><c> could</c><00:00:47.650><c> take</c><00:00:47.830><c> all</c><c.colorE5E5E5><00:00:48.250><c> 270,000</c></c>
+
+00:00:49.350 --> 00:00:49.750 align:start position:0%
+you could take all<c.colorE5E5E5> 270,000
+ </c>
+
+00:00:49.750 --> 00:00:51.070 align:start position:0%
+you could take all<c.colorE5E5E5> 270,000
+metric<00:00:50.110><c> tons</c></c><00:00:50.500><c> of</c><00:00:50.680><c> nuclear</c><00:00:51.070><c> waste</c>
+
+00:00:51.070 --> 00:00:51.220 align:start position:0%
+<c.colorE5E5E5>metric tons</c> of nuclear waste
+ 
+
+00:00:51.220 --> 00:00:52.840 align:start position:0%
+<c.colorE5E5E5>metric tons</c> of nuclear waste
+that<00:00:51.460><c> exists</c><c.colorCCCCCC><00:00:51.970><c> worldwide</c></c><c.colorE5E5E5><00:00:52.510><c> and</c></c><00:00:52.840><c> you</c>
+
+00:00:52.840 --> 00:00:52.960 align:start position:0%
+that exists<c.colorCCCCCC> worldwide</c><c.colorE5E5E5> and</c> you
+ 
+
+00:00:52.960 --> 00:00:54.000 align:start position:0%
+that exists<c.colorCCCCCC> worldwide</c><c.colorE5E5E5> and</c> you
+can<00:00:53.140><c> turn</c><00:00:53.380><c> that</c><00:00:53.530><c> into</c><c.colorE5E5E5><00:00:53.890><c> enough</c></c>
+
+00:00:54.000 --> 00:00:54.400 align:start position:0%
+can turn that into<c.colorE5E5E5> enough
+ </c>
+
+00:00:54.400 --> 00:00:55.780 align:start position:0%
+can turn that into<c.colorE5E5E5> enough</c>
+electricity<00:00:54.850><c> to</c><00:00:55.210><c> power</c><00:00:55.390><c> the</c><00:00:55.780><c> entire</c>
+
+00:00:55.780 --> 00:00:55.990 align:start position:0%
+electricity to power the entire
+ 
+
+00:00:55.990 --> 00:01:01.990 align:start position:0%
+electricity to power the entire
+world<c.colorE5E5E5><00:00:56.620><c> for</c><00:00:57.100><c> 72</c></c><00:00:57.700><c> years</c>
+

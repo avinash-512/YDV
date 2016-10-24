@@ -1,0 +1,158 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:00.000 --> 00:00:02.909 align:start position:0%
+ 
+hi<00:00:01.319><c> my</c><00:00:01.650><c> name</c><00:00:01.860><c> is</c><c.colorCCCCCC><00:00:01.949><c> Rodrigo</c></c><c.colorE5E5E5><00:00:02.399><c> mean</c></c><c.colorCCCCCC><00:00:02.909><c> I'm</c></c>
+
+00:00:02.909 --> 00:00:03.090 align:start position:0%
+hi my name is<c.colorCCCCCC> Rodrigo</c><c.colorE5E5E5> mean</c><c.colorCCCCCC> I'm
+ </c>
+
+00:00:03.090 --> 00:00:05.390 align:start position:0%
+hi my name is<c.colorCCCCCC> Rodrigo</c><c.colorE5E5E5> mean</c><c.colorCCCCCC> I'm</c>
+here<00:00:03.480><c> to</c><00:00:03.629><c> convince</c><00:00:03.959><c> you</c><00:00:04.290><c> that</c><00:00:05.310><c> bats</c>
+
+00:00:05.390 --> 00:00:05.790 align:start position:0%
+here to convince you that bats
+ 
+
+00:00:05.790 --> 00:00:07.399 align:start position:0%
+here to convince you that bats
+are<00:00:05.910><c> your</c><00:00:06.120><c> best</c><c.colorE5E5E5><00:00:06.509><c> friends</c></c><c.colorCCCCCC><00:00:06.930><c> bots</c></c>
+
+00:00:07.399 --> 00:00:07.799 align:start position:0%
+are your best<c.colorE5E5E5> friends</c><c.colorCCCCCC> bots
+ </c>
+
+00:00:07.799 --> 00:00:09.480 align:start position:0%
+are your best<c.colorE5E5E5> friends</c><c.colorCCCCCC> bots
+pollinate</c><00:00:08.280><c> many</c><00:00:08.760><c> many</c><00:00:09.059><c> plans</c><c.colorCCCCCC><00:00:09.480><c> that</c></c>
+
+00:00:09.480 --> 00:00:09.570 align:start position:0%
+<c.colorCCCCCC>pollinate</c> many many plans<c.colorCCCCCC> that
+ </c>
+
+00:00:09.570 --> 00:00:11.090 align:start position:0%
+<c.colorCCCCCC>pollinate</c> many many plans<c.colorCCCCCC> that
+are</c><00:00:09.660><c> incredibly</c><00:00:10.530><c> important</c><c.colorCCCCCC><00:00:11.070><c> if</c></c>
+
+00:00:11.090 --> 00:00:11.490 align:start position:0%
+<c.colorCCCCCC>are</c> incredibly important<c.colorCCCCCC> if
+ </c>
+
+00:00:11.490 --> 00:00:13.799 align:start position:0%
+<c.colorCCCCCC>are</c> incredibly important<c.colorCCCCCC> if</c>
+you've<00:00:11.639><c> ever</c><00:00:11.790><c> seen</c><c.colorCCCCCC><00:00:12.090><c> wild</c></c><c.colorE5E5E5><00:00:13.530><c> west</c></c><00:00:13.799><c> movie</c>
+
+00:00:13.799 --> 00:00:13.980 align:start position:0%
+you've ever seen<c.colorCCCCCC> wild</c><c.colorE5E5E5> west</c> movie
+ 
+
+00:00:13.980 --> 00:00:16.170 align:start position:0%
+you've ever seen<c.colorCCCCCC> wild</c><c.colorE5E5E5> west</c> movie
+with<00:00:14.730><c> those</c><00:00:14.969><c> great</c><00:00:15.509><c> big</c><c.colorCCCCCC><00:00:15.719><c> cock</c><00:00:16.170><c> by</c></c>
+
+00:00:16.170 --> 00:00:16.289 align:start position:0%
+with those great big<c.colorCCCCCC> cock by
+ </c>
+
+00:00:16.289 --> 00:00:17.850 align:start position:0%
+with those great big<c.colorCCCCCC> cock by</c>
+growing<c.colorE5E5E5><00:00:16.710><c> up</c></c><00:00:16.980><c> there</c><00:00:17.250><c> they</c><c.colorE5E5E5><00:00:17.760><c> are</c></c><00:00:17.850><c> there</c>
+
+00:00:17.850 --> 00:00:18.029 align:start position:0%
+growing<c.colorE5E5E5> up</c> there they<c.colorE5E5E5> are</c> there
+ 
+
+00:00:18.029 --> 00:00:19.289 align:start position:0%
+growing<c.colorE5E5E5> up</c> there they<c.colorE5E5E5> are</c> there
+because<c.colorE5E5E5><00:00:18.330><c> of</c></c><00:00:18.570><c> bats</c><00:00:19.080><c> have</c><00:00:19.289><c> been</c>
+
+00:00:19.289 --> 00:00:19.380 align:start position:0%
+because<c.colorE5E5E5> of</c> bats have been
+ 
+
+00:00:19.380 --> 00:00:21.180 align:start position:0%
+because<c.colorE5E5E5> of</c> bats have been
+pollinating<00:00:20.400><c> and</c><00:00:20.580><c> dispersing</c><00:00:21.180><c> the</c>
+
+00:00:21.180 --> 00:00:21.300 align:start position:0%
+pollinating and dispersing the
+ 
+
+00:00:21.300 --> 00:00:24.590 align:start position:0%
+pollinating and dispersing the
+seeds<00:00:21.750><c> of</c><00:00:21.810><c> those</c><c.colorE5E5E5><00:00:22.140><c> guy</c><00:00:22.380><c> and</c></c><c.colorCCCCCC><00:00:23.699><c> also</c></c><00:00:24.119><c> if</c>
+
+00:00:24.590 --> 00:00:24.990 align:start position:0%
+seeds of those<c.colorE5E5E5> guy and</c><c.colorCCCCCC> also</c> if
+ 
+
+00:00:24.990 --> 00:00:25.850 align:start position:0%
+seeds of those<c.colorE5E5E5> guy and</c><c.colorCCCCCC> also</c> if
+you<00:00:25.109><c> like</c><00:00:25.439><c> tequila</c>
+
+00:00:25.850 --> 00:00:26.250 align:start position:0%
+you like tequila
+ 
+
+00:00:26.250 --> 00:00:28.129 align:start position:0%
+you like tequila
+well<00:00:26.490><c> guess</c><00:00:26.789><c> what</c><c.colorCCCCCC><00:00:27.000><c> you</c></c><00:00:27.779><c> always</c><c.colorE5E5E5><00:00:28.080><c> to</c></c>
+
+00:00:28.129 --> 00:00:28.529 align:start position:0%
+well guess what<c.colorCCCCCC> you</c> always<c.colorE5E5E5> to
+ </c>
+
+00:00:28.529 --> 00:00:30.770 align:start position:0%
+well guess what<c.colorCCCCCC> you</c> always<c.colorE5E5E5> to</c>
+the<c.colorE5E5E5><00:00:28.619><c> bats</c></c><c.colorCCCCCC><00:00:29.039><c> that's</c></c><00:00:29.820><c> pollinate</c><c.colorCCCCCC><00:00:30.689><c> that</c></c>
+
+00:00:30.770 --> 00:00:31.170 align:start position:0%
+the<c.colorE5E5E5> bats</c><c.colorCCCCCC> that's</c> pollinate<c.colorCCCCCC> that
+ </c>
+
+00:00:31.170 --> 00:00:32.460 align:start position:0%
+the<c.colorE5E5E5> bats</c><c.colorCCCCCC> that's</c> pollinate<c.colorCCCCCC> that</c>
+the<00:00:31.260><c> killer</c><00:00:31.529><c> plan</c><00:00:31.830><c> that</c><00:00:31.980><c> is</c><00:00:32.070><c> called</c><c.colorCCCCCC><00:00:32.460><c> a</c></c>
+
+00:00:32.460 --> 00:00:32.610 align:start position:0%
+the killer plan that is called<c.colorCCCCCC> a
+ </c>
+
+00:00:32.610 --> 00:00:34.320 align:start position:0%
+the killer plan that is called<c.colorCCCCCC> a
+gather</c><c.colorE5E5E5><00:00:32.969><c> so</c></c><00:00:33.660><c> if</c><00:00:33.809><c> you</c><00:00:34.050><c> like</c><00:00:34.320><c> tequila</c>
+
+00:00:34.320 --> 00:00:34.590 align:start position:0%
+<c.colorCCCCCC>gather</c><c.colorE5E5E5> so</c> if you like tequila
+ 
+
+00:00:34.590 --> 00:00:37.079 align:start position:0%
+<c.colorCCCCCC>gather</c><c.colorE5E5E5> so</c> if you like tequila
+<c.colorCCCCCC>next</c><00:00:35.670><c> time</c><00:00:35.820><c> you</c><00:00:35.940><c> drink</c><c.colorE5E5E5><00:00:36.300><c> let</c></c><00:00:36.899><c> you</c><00:00:37.079><c> post</c>
+
+00:00:37.079 --> 00:00:37.469 align:start position:0%
+<c.colorCCCCCC>next</c> time you drink<c.colorE5E5E5> let</c> you post
+ 
+
+00:00:37.469 --> 00:00:42.470 align:start position:0%
+<c.colorCCCCCC>next</c> time you drink<c.colorE5E5E5> let</c> you post
+the<c.colorCCCCCC><00:00:38.010><c> battle</c><00:00:38.489><c> that's</c></c><00:00:39.420><c> aquila</c><c.colorCCCCCC><00:00:40.950><c> two</c></c><00:00:42.329><c> of</c>
+
+00:00:42.470 --> 00:00:42.870 align:start position:0%
+the<c.colorCCCCCC> battle that's</c> aquila<c.colorCCCCCC> two</c> of
+ 
+
+00:00:42.870 --> 00:00:48.870 align:start position:0%
+the<c.colorCCCCCC> battle that's</c> aquila<c.colorCCCCCC> two</c> of
+<c.colorCCCCCC>my</c><c.colorE5E5E5><00:00:42.989><c> favorite</c></c><00:00:43.500><c> things</c><00:00:43.590><c> in</c><00:00:44.070><c> the</c><00:00:44.129><c> world</c>
+

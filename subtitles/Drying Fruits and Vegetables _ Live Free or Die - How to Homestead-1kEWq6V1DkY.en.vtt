@@ -1,0 +1,390 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:00.000 --> 00:00:05.990 align:start position:0%
+ 
+what<c.colorCCCCCC><00:00:04.830><c> I</c></c><00:00:04.920><c> want</c><00:00:05.130><c> to</c><00:00:05.190><c> do</c><00:00:05.310><c> today</c><00:00:05.490><c> is</c><00:00:05.819><c> show</c>
+
+00:00:05.990 --> 00:00:06.390 align:start position:0%
+what<c.colorCCCCCC> I</c> want to do today is show
+ 
+
+00:00:06.390 --> 00:00:07.859 align:start position:0%
+what<c.colorCCCCCC> I</c> want to do today is show
+you<00:00:06.450><c> how</c><c.colorE5E5E5><00:00:06.720><c> I</c><00:00:06.810><c> dry</c><00:00:07.109><c> my</c></c><00:00:07.290><c> fruit</c><00:00:07.680><c> when</c><00:00:07.859><c> I</c>
+
+00:00:07.859 --> 00:00:07.919 align:start position:0%
+you how<c.colorE5E5E5> I dry my</c> fruit when I
+ 
+
+00:00:07.919 --> 00:00:09.030 align:start position:0%
+you how<c.colorE5E5E5> I dry my</c> fruit when I
+have<00:00:08.040><c> extra</c><c.colorCCCCCC><00:00:08.309><c> and</c></c><00:00:08.730><c> then</c><c.colorCCCCCC><00:00:08.910><c> i'll</c></c><c.colorE5E5E5><00:00:09.030><c> show</c></c>
+
+00:00:09.030 --> 00:00:09.179 align:start position:0%
+have extra<c.colorCCCCCC> and</c> then<c.colorCCCCCC> i'll</c><c.colorE5E5E5> show
+ </c>
+
+00:00:09.179 --> 00:00:10.050 align:start position:0%
+have extra<c.colorCCCCCC> and</c> then<c.colorCCCCCC> i'll</c><c.colorE5E5E5> show</c>
+you<00:00:09.330><c> some</c><00:00:09.480><c> other</c><00:00:09.540><c> things</c><00:00:09.750><c> that</c><c.colorCCCCCC><00:00:10.050><c> I</c></c>
+
+00:00:10.050 --> 00:00:10.170 align:start position:0%
+you some other things that<c.colorCCCCCC> I
+ </c>
+
+00:00:10.170 --> 00:00:13.770 align:start position:0%
+you some other things that<c.colorCCCCCC> I</c>
+also<c.colorE5E5E5><00:00:10.320><c> like</c></c><00:00:10.620><c> to</c><c.colorE5E5E5><00:00:10.710><c> dry</c></c>
+
+00:00:13.770 --> 00:00:14.170 align:start position:0%
+also<c.colorE5E5E5> like</c> to<c.colorE5E5E5> dry
+ </c>
+
+00:00:14.170 --> 00:00:17.310 align:start position:0%
+also<c.colorE5E5E5> like</c> to<c.colorE5E5E5> dry</c>
+<c.colorCCCCCC>the</c><00:00:16.180><c> thinner</c><c.colorCCCCCC><00:00:16.480><c> you</c></c><00:00:16.720><c> slice</c><00:00:17.050><c> the</c><00:00:17.200><c> apples</c>
+
+00:00:17.310 --> 00:00:17.710 align:start position:0%
+<c.colorCCCCCC>the</c> thinner<c.colorCCCCCC> you</c> slice the apples
+ 
+
+00:00:17.710 --> 00:00:18.930 align:start position:0%
+<c.colorCCCCCC>the</c> thinner<c.colorCCCCCC> you</c> slice the apples
+<c.colorE5E5E5>faster</c><00:00:18.310><c> they're</c><00:00:18.430><c> going</c><c.colorE5E5E5><00:00:18.580><c> to</c></c><00:00:18.640><c> dry</c><c.colorCCCCCC><00:00:18.820><c> if</c></c>
+
+00:00:18.930 --> 00:00:19.330 align:start position:0%
+<c.colorE5E5E5>faster</c> they're going<c.colorE5E5E5> to</c> dry<c.colorCCCCCC> if
+ </c>
+
+00:00:19.330 --> 00:00:20.470 align:start position:0%
+<c.colorE5E5E5>faster</c> they're going<c.colorE5E5E5> to</c> dry<c.colorCCCCCC> if</c>
+you<00:00:19.510><c> don't</c><c.colorE5E5E5><00:00:19.810><c> slice</c></c><c.colorCCCCCC><00:00:20.110><c> them</c></c><c.colorE5E5E5><00:00:20.260><c> thin</c></c><00:00:20.470><c> enough</c>
+
+00:00:20.470 --> 00:00:20.650 align:start position:0%
+you don't<c.colorE5E5E5> slice</c><c.colorCCCCCC> them</c><c.colorE5E5E5> thin</c> enough
+ 
+
+00:00:20.650 --> 00:00:22.170 align:start position:0%
+you don't<c.colorE5E5E5> slice</c><c.colorCCCCCC> them</c><c.colorE5E5E5> thin</c> enough
+<c.colorCCCCCC>they'll</c><c.colorE5E5E5><00:00:20.920><c> take</c></c><00:00:21.130><c> so</c><00:00:21.310><c> long</c><00:00:21.460><c> to</c><00:00:21.730><c> dry</c><c.colorCCCCCC><00:00:21.940><c> that</c></c>
+
+00:00:22.170 --> 00:00:22.570 align:start position:0%
+<c.colorCCCCCC>they'll</c><c.colorE5E5E5> take</c> so long to dry<c.colorCCCCCC> that
+ </c>
+
+00:00:22.570 --> 00:00:23.800 align:start position:0%
+<c.colorCCCCCC>they'll</c><c.colorE5E5E5> take</c> so long to dry<c.colorCCCCCC> that</c>
+<c.colorE5E5E5>they</c><00:00:22.750><c> could</c><00:00:23.020><c> spoil</c><00:00:23.380><c> for</c><00:00:23.650><c> the</c><c.colorE5E5E5><00:00:23.800><c> option</c></c>
+
+00:00:23.800 --> 00:00:24.160 align:start position:0%
+<c.colorE5E5E5>they</c> could spoil for the<c.colorE5E5E5> option
+ </c>
+
+00:00:24.160 --> 00:00:26.660 align:start position:0%
+<c.colorE5E5E5>they</c> could spoil for the<c.colorE5E5E5> option
+dry</c><00:00:24.340><c> out</c>
+
+00:00:26.660 --> 00:00:27.060 align:start position:0%
+<c.colorE5E5E5>dry</c> out
+ 
+
+00:00:27.060 --> 00:00:29.820 align:start position:0%
+<c.colorE5E5E5>dry</c> out
+once<c.colorCCCCCC><00:00:28.470><c> i</c></c><00:00:28.500><c> get</c><c.colorE5E5E5><00:00:28.650><c> to</c><00:00:28.769><c> the</c><00:00:28.859><c> core</c></c><00:00:29.160><c> here</c><c.colorCCCCCC><00:00:29.820><c> I</c></c>
+
+00:00:29.820 --> 00:00:29.880 align:start position:0%
+once<c.colorCCCCCC> i</c> get<c.colorE5E5E5> to the core</c> here<c.colorCCCCCC> I
+ </c>
+
+00:00:29.880 --> 00:00:31.980 align:start position:0%
+once<c.colorCCCCCC> i</c> get<c.colorE5E5E5> to the core</c> here<c.colorCCCCCC> I</c>
+<c.colorE5E5E5>just</c><c.colorCCCCCC><00:00:30.060><c> turn</c></c><c.colorE5E5E5><00:00:30.390><c> the</c></c><c.colorCCCCCC><00:00:30.539><c> apple</c></c><c.colorE5E5E5><00:00:30.930><c> and</c><00:00:31.890><c> I</c><00:00:31.980><c> just</c></c>
+
+00:00:31.980 --> 00:00:32.160 align:start position:0%
+<c.colorE5E5E5>just</c><c.colorCCCCCC> turn</c><c.colorE5E5E5> the</c><c.colorCCCCCC> apple</c><c.colorE5E5E5> and I just
+ </c>
+
+00:00:32.160 --> 00:00:34.860 align:start position:0%
+<c.colorE5E5E5>just</c><c.colorCCCCCC> turn</c><c.colorE5E5E5> the</c><c.colorCCCCCC> apple</c><c.colorE5E5E5> and I just</c>
+start<00:00:32.369><c> slicing</c><00:00:32.669><c> the</c><00:00:32.910><c> other</c><00:00:33.090><c> side</c>
+
+00:00:34.860 --> 00:00:35.260 align:start position:0%
+start slicing the other side
+ 
+
+00:00:35.260 --> 00:00:37.089 align:start position:0%
+start slicing the other side
+drying<00:00:36.070><c> is</c><00:00:36.219><c> a</c><00:00:36.280><c> really</c><00:00:36.609><c> nice</c><00:00:36.789><c> way</c><00:00:37.089><c> to</c>
+
+00:00:37.089 --> 00:00:37.239 align:start position:0%
+drying is a really nice way to
+ 
+
+00:00:37.239 --> 00:00:38.949 align:start position:0%
+drying is a really nice way to
+preserve<c.colorCCCCCC><00:00:37.420><c> fruit</c><00:00:38.019><c> you</c></c><00:00:38.559><c> can</c><c.colorCCCCCC><00:00:38.620><c> dry</c></c><c.colorE5E5E5><00:00:38.859><c> a</c></c><00:00:38.949><c> lot</c>
+
+00:00:38.949 --> 00:00:39.219 align:start position:0%
+preserve<c.colorCCCCCC> fruit you</c> can<c.colorCCCCCC> dry</c><c.colorE5E5E5> a</c> lot
+ 
+
+00:00:39.219 --> 00:00:39.659 align:start position:0%
+preserve<c.colorCCCCCC> fruit you</c> can<c.colorCCCCCC> dry</c><c.colorE5E5E5> a</c> lot
+of<00:00:39.339><c> things</c>
+
+00:00:39.659 --> 00:00:40.059 align:start position:0%
+of things
+ 
+
+00:00:40.059 --> 00:00:41.729 align:start position:0%
+of things
+blueberries<c.colorE5E5E5><00:00:40.839><c> we</c></c><c.colorCCCCCC><00:00:40.989><c> dry</c></c><00:00:41.199><c> raspberries</c>
+
+00:00:41.729 --> 00:00:42.129 align:start position:0%
+blueberries<c.colorE5E5E5> we</c><c.colorCCCCCC> dry</c> raspberries
+ 
+
+00:00:42.129 --> 00:00:44.100 align:start position:0%
+blueberries<c.colorE5E5E5> we</c><c.colorCCCCCC> dry</c> raspberries
+<c.colorCCCCCC>pairs</c><c.colorE5E5E5><00:00:43.089><c> mushrooms</c></c>
+
+00:00:44.100 --> 00:00:44.500 align:start position:0%
+<c.colorCCCCCC>pairs</c><c.colorE5E5E5> mushrooms
+ </c>
+
+00:00:44.500 --> 00:00:45.820 align:start position:0%
+<c.colorCCCCCC>pairs</c><c.colorE5E5E5> mushrooms
+we</c><00:00:44.559><c> also</c><c.colorCCCCCC><00:00:44.710><c> dried</c></c><00:00:45.070><c> herbs</c><00:00:45.489><c> herbs</c><00:00:45.820><c> and</c>
+
+00:00:45.820 --> 00:00:46.210 align:start position:0%
+<c.colorE5E5E5>we</c> also<c.colorCCCCCC> dried</c> herbs herbs and
+ 
+
+00:00:46.210 --> 00:00:48.630 align:start position:0%
+<c.colorE5E5E5>we</c> also<c.colorCCCCCC> dried</c> herbs herbs and
+flowers<00:00:47.079><c> the</c><c.colorE5E5E5><00:00:47.170><c> flavor</c></c><00:00:47.680><c> of</c><00:00:48.579><c> dried</c>
+
+00:00:48.630 --> 00:00:49.030 align:start position:0%
+flowers the<c.colorE5E5E5> flavor</c> of dried
+ 
+
+00:00:49.030 --> 00:00:50.429 align:start position:0%
+flowers the<c.colorE5E5E5> flavor</c> of dried
+fruit<00:00:49.479><c> is</c><00:00:49.659><c> just</c><c.colorE5E5E5><00:00:50.019><c> it's</c><00:00:50.260><c> amazing</c></c>
+
+00:00:50.429 --> 00:00:50.829 align:start position:0%
+fruit is just<c.colorE5E5E5> it's amazing
+ </c>
+
+00:00:50.829 --> 00:00:52.259 align:start position:0%
+fruit is just<c.colorE5E5E5> it's amazing</c>
+because<00:00:51.010><c> when</c><00:00:51.280><c> you</c><00:00:51.369><c> dry</c><00:00:51.579><c> the</c><00:00:51.789><c> fruit</c>
+
+00:00:52.259 --> 00:00:52.659 align:start position:0%
+because when you dry the fruit
+ 
+
+00:00:52.659 --> 00:00:54.119 align:start position:0%
+because when you dry the fruit
+it<00:00:52.750><c> concentrates</c><c.colorCCCCCC><00:00:53.199><c> the</c></c><00:00:53.619><c> flavor</c><c.colorCCCCCC><00:00:53.710><c> when</c></c>
+
+00:00:54.119 --> 00:00:54.519 align:start position:0%
+it concentrates<c.colorCCCCCC> the</c> flavor<c.colorCCCCCC> when
+ </c>
+
+00:00:54.519 --> 00:00:55.799 align:start position:0%
+it concentrates<c.colorCCCCCC> the</c> flavor<c.colorCCCCCC> when</c>
+you<00:00:54.640><c> want</c><00:00:54.850><c> something</c><00:00:55.059><c> sweet</c><c.colorE5E5E5><00:00:55.420><c> dried</c></c>
+
+00:00:55.799 --> 00:00:56.199 align:start position:0%
+you want something sweet<c.colorE5E5E5> dried
+ </c>
+
+00:00:56.199 --> 00:00:57.479 align:start position:0%
+you want something sweet<c.colorE5E5E5> dried</c>
+<c.colorCCCCCC>apple<00:00:56.649><c> is</c></c><00:00:56.769><c> perfect</c>
+
+00:00:57.479 --> 00:00:57.879 align:start position:0%
+<c.colorCCCCCC>apple is</c> perfect
+ 
+
+00:00:57.879 --> 00:00:59.819 align:start position:0%
+<c.colorCCCCCC>apple is</c> perfect
+so<00:00:58.030><c> now</c><00:00:58.869><c> that</c><c.colorCCCCCC><00:00:58.930><c> i</c><00:00:59.079><c> have</c></c><00:00:59.229><c> these</c><c.colorE5E5E5><00:00:59.440><c> sliced</c></c>
+
+00:00:59.819 --> 00:01:00.219 align:start position:0%
+so now that<c.colorCCCCCC> i have</c> these<c.colorE5E5E5> sliced
+ </c>
+
+00:01:00.219 --> 00:01:01.989 align:start position:0%
+so now that<c.colorCCCCCC> i have</c> these<c.colorE5E5E5> sliced</c>
+<c.colorCCCCCC>i'm<00:01:01.329><c> going</c></c><c.colorE5E5E5><00:01:01.449><c> to</c></c><00:01:01.510><c> lay</c><00:01:01.690><c> them</c><00:01:01.839><c> out</c><00:01:01.989><c> on</c>
+
+00:01:01.989 --> 00:01:02.170 align:start position:0%
+<c.colorCCCCCC>i'm going</c><c.colorE5E5E5> to</c> lay them out on
+ 
+
+00:01:02.170 --> 00:01:04.210 align:start position:0%
+<c.colorCCCCCC>i'm going</c><c.colorE5E5E5> to</c> lay them out on
+this<00:01:02.320><c> towel</c><00:01:02.859><c> in</c><00:01:02.949><c> the</c><c.colorE5E5E5><00:01:03.039><c> Sun</c></c><c.colorCCCCCC><00:01:03.430><c> drying</c><00:01:04.210><c> in</c></c>
+
+00:01:04.210 --> 00:01:04.360 align:start position:0%
+this towel in the<c.colorE5E5E5> Sun</c><c.colorCCCCCC> drying in
+ </c>
+
+00:01:04.360 --> 00:01:05.730 align:start position:0%
+this towel in the<c.colorE5E5E5> Sun</c><c.colorCCCCCC> drying in</c>
+a<00:01:04.390><c> really</c><00:01:04.720><c> sunny</c><00:01:05.049><c> spot</c>
+
+00:01:05.730 --> 00:01:06.130 align:start position:0%
+a really sunny spot
+ 
+
+00:01:06.130 --> 00:01:07.720 align:start position:0%
+a really sunny spot
+<c.colorCCCCCC>I</c><00:01:06.280><c> usually</c><00:01:06.640><c> tend</c><00:01:07.240><c> to</c><00:01:07.270><c> just</c><00:01:07.509><c> eat</c><00:01:07.720><c> them</c>
+
+00:01:07.720 --> 00:01:07.840 align:start position:0%
+<c.colorCCCCCC>I</c> usually tend to just eat them
+ 
+
+00:01:07.840 --> 00:01:09.100 align:start position:0%
+<c.colorCCCCCC>I</c> usually tend to just eat them
+as<00:01:08.080><c> a</c><00:01:08.140><c> snack</c><00:01:08.830><c> you</c><00:01:08.979><c> know</c><c.colorE5E5E5><00:01:09.039><c> if</c></c><c.colorCCCCCC><00:01:09.100><c> I'm</c></c>
+
+00:01:09.100 --> 00:01:09.220 align:start position:0%
+as a snack you know<c.colorE5E5E5> if</c><c.colorCCCCCC> I'm
+ </c>
+
+00:01:09.220 --> 00:01:10.450 align:start position:0%
+as a snack you know<c.colorE5E5E5> if</c><c.colorCCCCCC> I'm</c>
+<c.colorE5E5E5>wanting</c><00:01:09.460><c> something</c><00:01:09.700><c> sweet</c><c.colorE5E5E5><00:01:10.390><c> and</c></c><c.colorCCCCCC><00:01:10.450><c> i'm</c></c>
+
+00:01:10.450 --> 00:01:10.539 align:start position:0%
+<c.colorE5E5E5>wanting</c> something sweet<c.colorE5E5E5> and</c><c.colorCCCCCC> i'm
+ </c>
+
+00:01:10.539 --> 00:01:11.890 align:start position:0%
+<c.colorE5E5E5>wanting</c> something sweet<c.colorE5E5E5> and</c><c.colorCCCCCC> i'm</c>
+hungry<c.colorE5E5E5><00:01:10.720><c> i</c></c><00:01:11.080><c> might</c><00:01:11.319><c> just</c><c.colorE5E5E5><00:01:11.350><c> grab</c></c><00:01:11.710><c> a</c><00:01:11.890><c> few</c>
+
+00:01:11.890 --> 00:01:12.069 align:start position:0%
+hungry<c.colorE5E5E5> i</c> might just<c.colorE5E5E5> grab</c> a few
+ 
+
+00:01:12.069 --> 00:01:13.529 align:start position:0%
+hungry<c.colorE5E5E5> i</c> might just<c.colorE5E5E5> grab</c> a few
+pieces<00:01:12.490><c> as</c><00:01:12.880><c> a</c><00:01:12.970><c> snap</c>
+
+00:01:13.529 --> 00:01:13.929 align:start position:0%
+pieces as a snap
+ 
+
+00:01:13.929 --> 00:01:16.759 align:start position:0%
+pieces as a snap
+<c.colorE5E5E5>there's</c><00:01:14.170><c> some</c><00:01:14.350><c> dried</c><00:01:14.619><c> apples</c>
+
+00:01:16.759 --> 00:01:17.159 align:start position:0%
+<c.colorE5E5E5>there's</c> some dried apples
+ 
+
+00:01:17.159 --> 00:01:18.869 align:start position:0%
+<c.colorE5E5E5>there's</c> some dried apples
+<c.colorE5E5E5>and<00:01:17.249><c> just</c></c><00:01:17.969><c> leave</c><00:01:18.149><c> these</c><00:01:18.270><c> here</c><00:01:18.539><c> for</c><00:01:18.869><c> a</c>
+
+00:01:18.869 --> 00:01:18.929 align:start position:0%
+<c.colorE5E5E5>and just</c> leave these here for a
+ 
+
+00:01:18.929 --> 00:01:20.130 align:start position:0%
+<c.colorE5E5E5>and just</c> leave these here for a
+few<00:01:19.079><c> hours</c><00:01:19.259><c> and</c><00:01:19.799><c> then</c><00:01:19.950><c> I'll</c><00:01:20.100><c> turn</c><00:01:20.130><c> the</c>
+
+00:01:20.130 --> 00:01:20.460 align:start position:0%
+few hours and then I'll turn the
+ 
+
+00:01:20.460 --> 00:01:24.690 align:start position:0%
+few hours and then I'll turn the
+<c.colorCCCCCC>Miller</c>
+
+00:01:24.690 --> 00:01:25.090 align:start position:0%
+<c.colorCCCCCC>Miller
+ </c>
+
+00:01:25.090 --> 00:01:27.670 align:start position:0%
+<c.colorCCCCCC>Miller</c>
+as<00:01:25.270><c> you</c><00:01:25.420><c> can</c><00:01:25.539><c> see</c><00:01:25.750><c> they</c><00:01:26.380><c> are</c><00:01:26.500><c> kind</c><00:01:27.670><c> of</c>
+
+00:01:27.670 --> 00:01:27.700 align:start position:0%
+as you can see they are kind of
+ 
+
+00:01:27.700 --> 00:01:30.270 align:start position:0%
+as you can see they are kind of
+crispy<c.colorCCCCCC><00:01:28.060><c> really</c></c><00:01:29.950><c> good</c>
+
+00:01:30.270 --> 00:01:30.670 align:start position:0%
+crispy<c.colorCCCCCC> really</c> good
+ 
+
+00:01:30.670 --> 00:01:31.960 align:start position:0%
+crispy<c.colorCCCCCC> really</c> good
+so<00:01:31.000><c> next</c><00:01:31.179><c> time</c><00:01:31.420><c> you</c><00:01:31.570><c> have</c><00:01:31.750><c> some</c><c.colorCCCCCC><00:01:31.960><c> fruit</c></c>
+
+00:01:31.960 --> 00:01:32.170 align:start position:0%
+so next time you have some<c.colorCCCCCC> fruit
+ </c>
+
+00:01:32.170 --> 00:01:33.579 align:start position:0%
+so next time you have some<c.colorCCCCCC> fruit</c>
+<c.colorE5E5E5>on</c><00:01:32.350><c> your</c><00:01:32.469><c> counter</c><c.colorE5E5E5><00:01:32.859><c> that</c></c><00:01:33.189><c> is</c><00:01:33.340><c> about</c><00:01:33.579><c> to</c>
+
+00:01:33.579 --> 00:01:33.729 align:start position:0%
+<c.colorE5E5E5>on</c> your counter<c.colorE5E5E5> that</c> is about to
+ 
+
+00:01:33.729 --> 00:01:34.139 align:start position:0%
+<c.colorE5E5E5>on</c> your counter<c.colorE5E5E5> that</c> is about to
+go<00:01:33.850><c> bad</c>
+
+00:01:34.139 --> 00:01:34.539 align:start position:0%
+go bad
+ 
+
+00:01:34.539 --> 00:01:35.950 align:start position:0%
+go bad
+instead<00:01:34.840><c> of</c><00:01:34.899><c> throwing</c><00:01:35.049><c> it</c><00:01:35.229><c> away</c><00:01:35.950><c> go</c>
+
+00:01:35.950 --> 00:01:36.100 align:start position:0%
+instead of throwing it away go
+ 
+
+00:01:36.100 --> 00:01:37.569 align:start position:0%
+instead of throwing it away go
+<c.colorE5E5E5>cut</c><00:01:36.819><c> it</c><00:01:36.909><c> up</c><00:01:37.060><c> and</c><00:01:37.149><c> put</c><00:01:37.270><c> it</c><00:01:37.390><c> in</c><00:01:37.509><c> the</c><c.colorCCCCCC><00:01:37.569><c> Sun</c></c>
+
+00:01:37.569 --> 00:01:37.899 align:start position:0%
+<c.colorE5E5E5>cut</c> it up and put it in the<c.colorCCCCCC> Sun
+ </c>
+
+00:01:37.899 --> 00:01:39.250 align:start position:0%
+<c.colorE5E5E5>cut</c> it up and put it in the<c.colorCCCCCC> Sun</c>
+<c.colorE5E5E5>and</c><00:01:38.319><c> make</c><00:01:38.770><c> yourself</c><00:01:39.069><c> some</c><00:01:39.250><c> dried</c>
+
+00:01:39.250 --> 00:01:39.520 align:start position:0%
+<c.colorE5E5E5>and</c> make yourself some dried
+ 
+
+00:01:39.520 --> 00:01:45.520 align:start position:0%
+<c.colorE5E5E5>and</c> make yourself some dried
+fruit<00:01:39.640><c> snacks</c>
+
