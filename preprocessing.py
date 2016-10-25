@@ -22,8 +22,7 @@ def process(file_list,folder):
     for f in file_list:
         file_path = folder_path + f
         f1 = open(file_path,'r')
-        for line in f1:
-            print line
+        lines = filter(line.rstrip() for line in f1)
 
 file_list = list_files('subtitles')
 process(file_list,'subtitles')
