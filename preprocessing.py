@@ -6,7 +6,7 @@
         # timestamps!
 
 import os
-
+import pycaption
 def list_files(folder):
     current_path = os.getcwd()
     print(current_path)
@@ -17,13 +17,19 @@ def list_files(folder):
     return file_list
 
 def process(file_list,folder):
+    webtv_reader = pycaption.WebVTTReader()
     current_path = os.getcwd()
+    output_folder = os.getcwd() + str("/") + str(output_folder)
     folder_path = str(current_path) + str("/") + str(folder) + str("/")
     for f in file_list:
-        file_path = folder_path + f
+        file_path = folder_path + str("/") + str(f)
+        print("converting "+f+"....")
+        output_path = outtput_folder + str("/") + str(f)
         f1 = open(file_path,'r')
-        lines = filter(line.rstrip() for line in f1)
-
-file_list = list_files('subtitles')
-process(file_list,'subtitles')
+        out = pycation.WebVTTWriter().write(f1).encode("utf-8")
+        fout = f.replace(".vtt",".srt")
+        f2 = open(output_path,"w")
+        f2.write(fout)
+        f2.close()
+        f1.close()
 
