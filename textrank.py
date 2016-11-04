@@ -27,39 +27,22 @@ def unique_everseen(iterable, key=None):
                 unique_add(k)
                 yield element
 
-def keywords(text):
-    #word-tokenization and tag
-    token = nltk.word_tokenize(text)
-    tagged = nltk.pos_tag(token)
-
-    #tag-filteration
-    need_tag = ["NN","JJ","NNP"]
-    filtered_tag = [item for item in tagged if item[1] in need_tag]
-  
-    #normalized tokens
-    normalized_token = [(item[0].replace('.',''),item[1]) for item in filtered_tag)
-    
-    #unique_wordset
-    unique_wordset = unique_everseen([x[0] for x in normalized_token])
-    wordset = list(unique_wordset)
-
-    #Build Word-Graph
-    w-graph = BuildGraph(wordset)
-
-    #Calculate TextRank
-    w-graph-rank = nx.pagerank(w-graph,alpha="0.8",weight='weight')
-
-    #Sort on the basis of the valueof nodes
-    keywords = sorted(w-graph-rank, key=w-graph-rank.get, reverse=True)
-
-    top = 0.2*len(keywords)
-
-    return keywords[0:top]
-
-def score(word1,word2,text,wordset):
+def score(word1,word2):
     # Number of connections between two words, a connection is when both words
     # occur in same sentence
-    score = 0
+    if len(word1) > (word2):
+        word1,word2 = word2,word1
+    distances = range(len(word1)+1)
+    for index, char2 in enumerate(word2):
+        newD = [index2 + 1]
+        for index1,char1 in enumerate(word1):
+            if char1 == char2:
+                newD.append(distances[index1])
+            else:
+                newD.append(1+min((distances[index1],distances[index1+1],newD[-1])))
+        distances = newD
+    return distances[-1]
+
     for sentence in text.split('\n'):
         if word in sentence:
             if word1 in sentence and word2 in sentence:
@@ -78,3 +61,33 @@ def BuildGraph(nodes):
         w = float(1/score(word1, word2))
         graph.add_edge(word1, word2, weight=w)
     return graph
+
+def keywords(text):
+    #word-tokenization and tag
+    token = nltk.word_tokenize(text)
+    tagged = nltk.pos_tag(token)
+
+    #tag-filteration
+    need_tag = ["NN","JJ","NNP"]
+    filtered_tag = [item for item in tagged if item[1] in need_tag]
+  
+    #normalized tokens
+    normalized_token = [(item[0].replace('.',''),item[1]) for item in
+            filtered_tag]
+    
+    #unique_wordset
+    unique_wordset = unique_everseen([x[0] for x in normalized_token])
+    wordset = list(unique_wordset)
+
+    #Build Word-Graph
+    wgraph = BuildGraph(wordset)
+
+    #Calculate TextRank
+    wgraphrank = nx.pagerank(wgraph,alpha="0.8",weight='weight')
+
+    #Sort on the basis of the valueof nodes
+    keywords = sorted(wgraphrank, key=w-graph-rank.get, reverse=True)
+
+    top = 0.2*len(keywords)
+
+    return keywords[0:top]
