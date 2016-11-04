@@ -15,9 +15,9 @@ import os
 def unique_everseen(iterable, key=None):
     # Set of unique terms
     unique = set()
-    unique_add = seen.add
+    unique_add = unique.add
     if key is None:
-        for element in itertools.ifilterfalse(seen.__contains__, iterable):
+        for element in itertools.ifilterfalse(unique.__contains__, iterable):
             unique_add(element)
             yield element
     else:
@@ -33,7 +33,7 @@ def score(word1,word2):
     if len(word1) > (word2):
         word1,word2 = word2,word1
     distances = range(len(word1)+1)
-    for index, char2 in enumerate(word2):
+    for index2, char2 in enumerate(word2):
         newD = [index2 + 1]
         for index1,char1 in enumerate(word1):
             if char1 == char2:
@@ -58,7 +58,7 @@ def BuildGraph(nodes):
     for pair in nodePairs:
         word1 = pair[0]
         word2 = pair[1]
-        w = float(1/score(word1, word2))
+        w =int(score(word1, word2))
         graph.add_edge(word1, word2, weight=w)
     return graph
 
@@ -83,11 +83,11 @@ def keywords(text):
     wgraph = BuildGraph(wordset)
 
     #Calculate TextRank
-    wgraphrank = nx.pagerank(wgraph,alpha="0.8",weight='weight')
+    wgraphrank = nx.pagerank(wgraph,weight='weight')
 
     #Sort on the basis of the valueof nodes
-    keywords = sorted(wgraphrank, key=w-graph-rank.get, reverse=True)
+    keywords = sorted(wgraphrank, key=wgraphrank.get, reverse=True)
 
-    top = 0.2*len(keywords)
-
+    top = int(0.2*len(keywords))
+    
     return keywords[0:top]
