@@ -32,8 +32,11 @@ def pre_process(folder,output_folder):
         n = webtv_reader.read(f1.decode('utf-8'))
         out = pycaption.SRTWriter().write(n).encode("utf-8").split("\n")
         fout = ''
+        f = ''
         for line in out:
             if "-->" in line:
+                continue
+            if line in fout:
                 continue
             if line == '\n':
                 continue
@@ -44,10 +47,14 @@ def pre_process(folder,output_folder):
                 continue
             except:
                 fout += str(line)
-                fout += str("\n")
-        
+                fout += str(" ")
+        for line in fout.split("\n"):
+            if line in f:
+                continue
+            else:
+                f += str(line) + "\n"
         f2 = open(output_path,"w")
-        f2.write(fout)
+        f2.write(f)
         f2.close()
 
 
