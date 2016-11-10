@@ -2,7 +2,6 @@ from preprocessing import pre_process
 from extract_senses import calculate_keysenses
 from wordnet import assign_domains
 import os
-from wsd import wsd
 from assign_cat import assign
 pre_process('subtitles','subtitles-text')
 current_path = os.getcwd()
