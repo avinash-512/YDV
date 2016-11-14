@@ -25,13 +25,18 @@ def pre_process(folder,output_folder):
     for f in file_list:
         if '.vtt' not in f:
             continue
+        title = f.split("-")
+        string =  ""
+        for t in  title[0:-1]:
+            string += t
+        string.replace("_", ' ')     
         file_path = folder_path +  str(f)
         print("converting " + f + "....")
         output_path = output_folder + str("/") + str(f.replace('.vtt','.srt'))
         f1 = open(file_path,'r').read()
         n = webtv_reader.read(f1.decode('utf-8'))
         out = pycaption.SRTWriter().write(n).encode("utf-8").split("\n")
-        fout = ''
+        fout = string +  ' '
         f = ''
         for line in out:
             if "-->" in line:

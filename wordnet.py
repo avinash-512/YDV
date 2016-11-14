@@ -38,8 +38,9 @@ def assign_domains(sense_dict):
     return sorted_domains
 
 def extract_domain(key,synset2domains):
-    all_keys = key.hyponyms()
+    #all_keys = key.hyponyms()
     answer =[]
+    all_keys = []
     all_keys.append(key)
     for k in all_keys:
         try:
